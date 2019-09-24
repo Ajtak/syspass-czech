@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: sysPass\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-04-29 01:28+0200\n"
-"PO-Revision-Date: 2019-09-24 10:06+0200\n"
+"PO-Revision-Date: 2019-09-24 10:22+0200\n"
 "Last-Translator: nuxsmin <nuxsmin@syspass.org>\n"
 "Language-Team: nuxsmin@syspass.org\n"
 "Language: cs_CZ\n"
@@ -2331,7 +2331,7 @@ msgstr "View User Details"
 #: app/modules/web/themes/material-blue/views/_partials/fixed-header.inc:130
 #: app/modules/web/themes/material-blue/views/_partials/fixed-header.inc:136
 msgid "Change User's Password"
-msgstr "Change User's Password"
+msgstr "Změnit heslo"
 
 #: app/modules/web/Controllers/Helpers/Grid/UserGroupGrid.php:95
 #: lib/SP/Services/CustomField/CustomFieldDefService.php:83
@@ -4715,7 +4715,7 @@ msgstr "Javascript is needed in order to run correctly"
 #: app/modules/web/themes/material-blue/views/_partials/fixed-header.inc:80
 #: app/modules/web/themes/material-blue/views/_partials/fixed-header.inc:141
 msgid "User preferences"
-msgstr "User preferences"
+msgstr "Nastavení účtu"
 
 #: app/modules/web/themes/material-blue/views/_partials/fixed-header.inc:84
 #: app/modules/web/themes/material-blue/views/_partials/fixed-header.inc:87
