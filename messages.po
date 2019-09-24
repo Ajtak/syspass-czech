@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: sysPass\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-04-29 01:28+0200\n"
-"PO-Revision-Date: 2019-09-24 08:45+0200\n"
+"PO-Revision-Date: 2019-09-24 10:06+0200\n"
 "Last-Translator: nuxsmin <nuxsmin@syspass.org>\n"
 "Language-Team: nuxsmin@syspass.org\n"
 "Language: cs_CZ\n"
@@ -153,7 +153,7 @@ msgstr "Účet byl vytvořen"
 #: app/modules/web/Controllers/AccountController.php:891
 #: app/modules/web/Controllers/AccountController.php:902
 msgid "Account updated"
-msgstr "Účet byl atkualizován"
+msgstr "Účet byl aktualizován"
 
 #: app/modules/api/Controllers/AccountController.php:318
 #: app/modules/api/Controllers/AccountController.php:324
@@ -227,12 +227,12 @@ msgstr "Application and database backup completed successfully"
 #: app/modules/api/Controllers/Help/ConfigHelp.php:43
 #: app/modules/api/Controllers/Help/ConfigHelp.php:54
 msgid "Path"
-msgstr "Path"
+msgstr "Cesta"
 
 #: app/modules/api/Controllers/ConfigController.php:63
 #: app/modules/web/Controllers/ConfigBackupController.php:73
 msgid "Backup process finished"
-msgstr "Backup process finished"
+msgstr "Zálohování bylo dokončeno"
 
 #: app/modules/api/Controllers/ConfigController.php:84
 #: app/modules/web/Controllers/ConfigBackupController.php:98
@@ -368,14 +368,14 @@ msgstr "Notes about the account"
 #: app/modules/web/themes/material-blue/views/account/search-rows.inc:131
 #: app/modules/web/themes/material-blue/views/itemshow/item_preset-private.inc:35
 msgid "Private Account"
-msgstr "Soukromý účet"
+msgstr "Soukromý záznam"
 
 #: app/modules/api/Controllers/Help/AccountHelp.php:90
 #: app/modules/api/Controllers/Help/AccountHelp.php:113
 #: app/modules/web/themes/material-blue/views/account/account-permissions.inc:246
 #: app/modules/web/themes/material-blue/views/itemshow/item_preset-private.inc:55
 msgid "Private Account for Group"
-msgstr "Private Account for Group"
+msgstr "Soukromý záznam pro skupinu"
 
 #: app/modules/api/Controllers/Help/AccountHelp.php:92
 #: app/modules/api/Controllers/Help/AccountHelp.php:115
@@ -582,7 +582,7 @@ msgstr "Link viewed"
 #: app/modules/web/themes/material-blue/views/itemshow/public_link.inc:29
 #: app/modules/web/themes/material-blue/views/itemshow/public_link.inc:31
 msgid "Account"
-msgstr "Account"
+msgstr "Účet"
 
 #: app/modules/web/Controllers/AccountController.php:265
 msgid "Agent"
@@ -619,7 +619,7 @@ msgstr "Link"
 #: app/modules/web/Controllers/AccountController.php:353
 #: app/modules/web/Controllers/Helpers/LayoutHelper.php:276
 msgid "New Account"
-msgstr "New Account"
+msgstr "Přidat účet"
 
 #: app/modules/web/Controllers/AccountController.php:407
 #: app/modules/web/Controllers/Helpers/Account/AccountActionsHelper.php:176
@@ -1026,7 +1026,7 @@ msgstr "Categories deleted"
 #: app/modules/web/themes/material-blue/views/itemshow/account_bulkedit.inc:61
 #: app/modules/web/themes/material-blue/views/itemshow/account_bulkedit.inc:63
 msgid "Category"
-msgstr "Category"
+msgstr "Kategorie"
 
 #: app/modules/web/Controllers/CategoryController.php:356
 msgid "View Category"
@@ -1161,7 +1161,7 @@ msgstr "Kategorie"
 #: app/modules/web/themes/material-blue/views/itemshow/account_bulkedit.inc:109
 #: app/modules/web/themes/material-blue/views/itemshow/user_profile.inc:344
 msgid "Tags"
-msgstr "Tags"
+msgstr "Štítky"
 
 #: app/modules/web/Controllers/ConfigDokuWikiController.php:66
 msgid "Missing DokuWiki parameters"
@@ -1596,7 +1596,7 @@ msgstr "Restore account from this point"
 #: app/modules/web/themes/material-blue/inc/Icons.php:50
 #: app/modules/web/themes/material-blue/views/account/account-editpass.inc:150
 msgid "Save"
-msgstr "Save"
+msgstr "Uložit"
 
 #: app/modules/web/Controllers/Helpers/Account/AccountActionsHelper.php:354
 #: app/modules/web/Controllers/Helpers/Account/AccountActionsHelper.php:355
@@ -1717,7 +1717,7 @@ msgstr "Sort by Category"
 #: app/modules/web/themes/material-blue/views/notification/notification.inc:96
 #: app/modules/web/themes/material-blue/views/userpassreset/request.inc:22
 msgid "User"
-msgstr "User"
+msgstr "Uživatelské jméno"
 
 #: app/modules/web/Controllers/Helpers/Account/AccountSearchHelper.php:264
 msgid "Sort by Username"
@@ -1776,7 +1776,7 @@ msgstr "Delete Selected"
 #: app/modules/web/themes/material-blue/views/account/details.inc:48
 #: app/modules/web/themes/material-blue/views/account/details.inc:50
 msgid "Owner"
-msgstr "Owner"
+msgstr "Vlastník"
 
 #: app/modules/web/Controllers/Helpers/Grid/AccountGrid.php:117
 #: app/modules/web/themes/material-blue/views/account/account-permissions.inc:208
@@ -1785,7 +1785,7 @@ msgstr "Owner"
 #: app/modules/web/themes/material-blue/views/itemshow/account_bulkedit.inc:93
 #: app/modules/web/themes/material-blue/views/itemshow/account_bulkedit.inc:95
 msgid "Main Group"
-msgstr "Main Group"
+msgstr "Hlavní skupina"
 
 #: app/modules/web/Controllers/Helpers/Grid/AccountGrid.php:149
 #: app/modules/web/Controllers/Helpers/Grid/AccountHistoryGrid.php:145
@@ -2297,7 +2297,7 @@ msgstr "Search for track"
 #: app/modules/web/themes/material-blue/views/itemshow/user_group.inc:67
 #: app/modules/web/themes/material-blue/views/itemshow/user_profile.inc:276
 msgid "Users"
-msgstr "Users"
+msgstr "Uživatelé"
 
 #: app/modules/web/Controllers/Helpers/Grid/UserGrid.php:148
 msgid "Search for User"
@@ -2340,7 +2340,7 @@ msgstr "Change User's Password"
 #: app/modules/web/themes/material-blue/views/itemshow/item_preset-permission.inc:61
 #: app/modules/web/themes/material-blue/views/itemshow/user_profile.inc:293
 msgid "Groups"
-msgstr "Groups"
+msgstr "Skupiny"
 
 #: app/modules/web/Controllers/Helpers/Grid/UserGroupGrid.php:138
 msgid "Search for Group"
@@ -3166,17 +3166,19 @@ msgid "New Plugin"
 msgstr "Nový plugin"
 
 #: lib/SP/Plugin/PluginManager.php:394
+#, fuzzy
 msgid "Upgrading plugin"
-msgstr ""
+msgstr "Plugin"
 
 #: lib/SP/Plugin/PluginManager.php:411
+#, fuzzy
 msgid "Plugin upgraded"
-msgstr ""
+msgstr "Plugin"
 
 #: lib/SP/Plugin/PluginManager.php:420
-#, php-format
+#, fuzzy, php-format
 msgid "Unable to upgrade the \"%s\" plugin"
-msgstr ""
+msgstr "Unable to load the \"%s\" plugin"
 
 #: lib/SP/Providers/Auth/AuthProvider.php:220
 msgid "Method unavailable"
@@ -3511,18 +3513,21 @@ msgid "Error while retrieving the notifications"
 msgstr "Error while retrieving the notifications"
 
 #: lib/SP/Repositories/Plugin/PluginDataRepository.php:68
+#, fuzzy
 msgid "Error while adding plugin's data"
-msgstr ""
+msgstr "Error while adding the plugin"
 
 #: lib/SP/Repositories/Plugin/PluginDataRepository.php:97
+#, fuzzy
 msgid "Error while updating plugin's data"
-msgstr ""
+msgstr "Error while updating the plugin"
 
 #: lib/SP/Repositories/Plugin/PluginDataRepository.php:116
 #: lib/SP/Repositories/Plugin/PluginDataRepository.php:136
 #: lib/SP/Repositories/Plugin/PluginDataRepository.php:242
+#, fuzzy
 msgid "Error while deleting plugin's data"
-msgstr ""
+msgstr "Error while deleting the plugin"
 
 #: lib/SP/Repositories/Plugin/PluginRepository.php:70
 msgid "Error while adding the plugin"
@@ -4360,8 +4365,9 @@ msgstr "Notification not found"
 #: lib/SP/Services/Plugin/PluginDataService.php:127
 #: lib/SP/Services/Plugin/PluginDataService.php:171
 #: lib/SP/Services/Plugin/PluginDataService.php:189
+#, fuzzy
 msgid "Plugin's data not found"
-msgstr ""
+msgstr "Plugin not found"
 
 #: lib/SP/Services/Plugin/PluginService.php:94
 #: lib/SP/Services/Plugin/PluginService.php:155
@@ -4530,8 +4536,9 @@ msgstr "Database updating was completed successfully."
 
 #: lib/SP/Services/Upgrade/UpgradePlugin.php:49
 #: lib/SP/Services/Upgrade/UpgradePlugin.php:58
+#, fuzzy
 msgid "Plugins upgrade"
-msgstr ""
+msgstr "Pluginy"
 
 #: lib/SP/Services/Upgrade/UpgradePublicLink.php:57
 #: lib/SP/Services/Upgrade/UpgradePublicLink.php:103
@@ -4743,7 +4750,7 @@ msgstr "A cygnux.org project"
 #: app/modules/web/themes/material-blue/views/_partials/help_account_search.inc:8
 #: app/modules/web/themes/material-blue/views/_partials/help_account_search.inc:13
 msgid "Special parameters"
-msgstr "Special parameters"
+msgstr "Speciální parametry"
 
 #: app/modules/web/themes/material-blue/views/_partials/help_account_search.inc:15
 msgid ""
@@ -4786,8 +4793,9 @@ msgid "Returns the account for the given ID"
 msgstr "Returns the account for the given ID"
 
 #: app/modules/web/themes/material-blue/views/_partials/help_account_search.inc:25
+#, fuzzy
 msgid "Search for accounts name by regular expression"
-msgstr ""
+msgstr "Search for accounts by category name"
 
 #: app/modules/web/themes/material-blue/views/_partials/help_account_search.inc:26
 msgid "Search for accounts with expired password"
@@ -4816,7 +4824,7 @@ msgstr "Nebyly nalezeny žádné záznamy"
 #: app/modules/web/themes/material-blue/views/itemshow/user_pass.inc:76
 #: app/modules/web/themes/material-blue/views/userpassreset/reset.inc:46
 msgid "Password (repeat)"
-msgstr "Password (repeat)"
+msgstr "Heslo znovu"
 
 #: app/modules/web/themes/material-blue/views/account/account-editpass.inc:128
 #: app/modules/web/themes/material-blue/views/account/account-history.inc:168
@@ -4854,7 +4862,7 @@ msgstr "Kategorie"
 #: app/modules/web/themes/material-blue/views/itemshow/user.inc:182
 #: app/modules/web/themes/material-blue/views/itemshow/user.inc:189
 msgid "Notes"
-msgstr "Notes"
+msgstr "Poznámky"
 
 #: app/modules/web/themes/material-blue/views/account/account-history.inc:181
 #: app/modules/web/themes/material-blue/views/account/account.inc:326
@@ -4926,7 +4934,7 @@ msgstr "Private"
 #: app/modules/web/themes/material-blue/views/account/account-permissions.inc:254
 #: app/modules/web/themes/material-blue/views/itemshow/user_profile.inc:218
 msgid "Private for Group"
-msgstr "Private for Group"
+msgstr "Soukromé pro skupinu"
 
 #: app/modules/web/themes/material-blue/views/account/account-request.inc:21
 msgid "Request Account Modification"
@@ -4945,7 +4953,7 @@ msgstr "Send"
 #: app/modules/web/themes/material-blue/views/itemshow/account_bulkedit.inc:30
 #: app/modules/web/themes/material-blue/views/itemshow/user_profile.inc:236
 msgid "Permissions"
-msgstr "Permissions"
+msgstr "Oprávnění"
 
 #: app/modules/web/themes/material-blue/views/account/account.inc:100
 #: app/modules/web/themes/material-blue/views/account/search-searchbox.inc:43
@@ -4974,7 +4982,7 @@ msgstr "Public Link"
 #: app/modules/web/themes/material-blue/views/account/account.inc:350
 #: app/modules/web/themes/material-blue/views/account/account.inc:354
 msgid "Direct Link"
-msgstr "Direct Link"
+msgstr "Přímý odkaz"
 
 #: app/modules/web/themes/material-blue/views/account/details.inc:28
 #: app/modules/web/themes/material-blue/views/account/details.inc:30
@@ -5036,7 +5044,7 @@ msgstr "Attachments"
 
 #: app/modules/web/themes/material-blue/views/account/search-rows.inc:208
 msgid "Expiry Date"
-msgstr ""
+msgstr "Datum expirace"
 
 #: app/modules/web/themes/material-blue/views/account/search-rows.inc:222
 #: app/modules/web/themes/material-blue/views/account/search-rows.inc:233
@@ -5064,7 +5072,7 @@ msgstr "Show Favorites"
 
 #: app/modules/web/themes/material-blue/views/account/search-searchbox.inc:101
 msgid "Favorites Filtering"
-msgstr "Favorites Filtering"
+msgstr "Oblíbené"
 
 #: app/modules/web/themes/material-blue/views/account/search-searchbox.inc:120
 msgid "Accounts per page"
