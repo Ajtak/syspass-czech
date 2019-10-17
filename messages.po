@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: sysPass\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-04-29 01:28+0200\n"
-"PO-Revision-Date: 2019-10-17 12:36+0200\n"
+"PO-Revision-Date: 2019-10-17 12:44+0200\n"
 "Last-Translator: nuxsmin <nuxsmin@syspass.org>\n"
 "Language-Team: nuxsmin@syspass.org\n"
 "Language: cs_CZ\n"
@@ -694,7 +694,7 @@ msgstr "Requester"
 #: app/modules/web/themes/material-blue/views/notification/notification.inc:72
 #: app/modules/web/themes/material-blue/views/notification/notification.inc:82
 msgid "Description"
-msgstr "Description"
+msgstr "Popis"
 
 #: app/modules/web/Controllers/AccountController.php:1099
 msgid "Request done"
@@ -798,7 +798,7 @@ msgstr "File saved"
 #: app/modules/web/themes/material-blue/views/notification/notification.inc:31
 #: app/modules/web/themes/material-blue/views/notification/notification.inc:39
 msgid "Type"
-msgstr "Type"
+msgstr "Typ"
 
 #: app/modules/web/Controllers/AccountFileController.php:257
 #: app/modules/web/Controllers/Helpers/Grid/FileGrid.php:110
@@ -1769,7 +1769,7 @@ msgstr "Sort by URL / IP"
 #: app/modules/web/Controllers/Helpers/Grid/UserProfileGrid.php:73
 #: app/modules/web/Controllers/Helpers/Grid/UserProfileGrid.php:74
 msgid "Delete Selected"
-msgstr "Delete Selected"
+msgstr "Odstranit vybrané"
 
 #: app/modules/web/Controllers/Helpers/Grid/AccountGrid.php:116
 #: app/modules/web/themes/material-blue/views/account/account-permissions.inc:184
@@ -1794,7 +1794,7 @@ msgstr "Search for Account"
 
 #: app/modules/web/Controllers/Helpers/Grid/AccountHistoryGrid.php:92
 msgid "Accounts (H)"
-msgstr "Accounts (H)"
+msgstr "Účty (H)"
 
 #: app/modules/web/Controllers/Helpers/Grid/AccountHistoryGrid.php:107
 #: app/modules/web/Controllers/Helpers/Grid/NotificationGrid.php:127
@@ -2094,13 +2094,13 @@ msgstr "Smazat hodnotu"
 #: app/modules/web/themes/material-blue/views/_partials/fixed-header.inc:119
 #: app/modules/web/themes/material-blue/views/notification/index.inc:3
 msgid "Notifications"
-msgstr "Notifications"
+msgstr "Notifikace"
 
 #: app/modules/web/Controllers/Helpers/Grid/NotificationGrid.php:129
 #: app/modules/web/themes/material-blue/views/notification/notification.inc:44
 #: app/modules/web/themes/material-blue/views/notification/notification.inc:52
 msgid "Component"
-msgstr "Component"
+msgstr "Komponenta"
 
 #: app/modules/web/Controllers/Helpers/Grid/NotificationGrid.php:153
 #: app/modules/web/themes/material-blue/views/notification/notification.inc:133
@@ -4743,7 +4743,7 @@ msgstr "A cygnux.org project"
 #: app/modules/web/themes/material-blue/views/_partials/help_account_search.inc:8
 #: app/modules/web/themes/material-blue/views/_partials/help_account_search.inc:13
 msgid "Special parameters"
-msgstr "Special parameters"
+msgstr "Speciální parametry"
 
 #: app/modules/web/themes/material-blue/views/_partials/help_account_search.inc:15
 msgid ""
@@ -6676,7 +6676,7 @@ msgstr "Previous Password"
 
 #: app/modules/web/themes/material-blue/views/login/index.inc:80
 msgid "Sign in"
-msgstr "Sign in"
+msgstr "Přihlásit se"
 
 #: app/modules/web/themes/material-blue/views/login/index.inc:89
 msgid "Forgot password?"
@@ -6684,7 +6684,7 @@ msgstr "Zapomenuté heslo"
 
 #: app/modules/web/themes/material-blue/views/main/update.inc:42
 msgid "Updated"
-msgstr "Updated"
+msgstr "Aktualizováno"
 
 #: app/modules/web/themes/material-blue/views/main/update.inc:49
 msgid "Error while checking for updates"
@@ -6697,7 +6697,7 @@ msgstr "Update %s"
 
 #: app/modules/web/themes/material-blue/views/main/upgrade.inc:24
 msgid "DB Update"
-msgstr "DB Update"
+msgstr "Aktualizace databáze"
 
 #: app/modules/web/themes/material-blue/views/main/upgrade.inc:26
 msgid "Application Update"
@@ -6706,7 +6706,7 @@ msgstr "Application Update"
 #: app/modules/web/themes/material-blue/views/main/upgrade.inc:34
 #: app/modules/web/themes/material-blue/views/upgrade/index.inc:34
 msgid "Security Code"
-msgstr "Security Code"
+msgstr "Bezpečnostní kód"
 
 #: app/modules/web/themes/material-blue/views/main/upgrade.inc:42
 msgid ""
@@ -6913,6 +6913,9 @@ msgstr "Heslo bylo zkopírováno do schránky"
 msgid "Security and Audit"
 msgstr "Audit zabezpečení"
 
+msgid "Session finished"
+msgstr "Odhlášení proběhlo úspěšně"
+
 #~ msgid "\"/config\" directory does not exist."
 #~ msgstr "\"/config\" directory does not exist."
 
@@ -6924,9 +6927,6 @@ msgstr "Audit zabezpečení"
 
 #~ msgid "There was an error"
 #~ msgstr "There was an error"
-
-#~ msgid "Session finished"
-#~ msgstr "Session finished"
 
 #~ msgid "Delete account?"
 #~ msgstr "Delete account?"
