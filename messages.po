@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: sysPass\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-04-29 01:28+0200\n"
-"PO-Revision-Date: 2019-10-17 12:44+0200\n"
+"PO-Revision-Date: 2019-10-17 12:57+0200\n"
 "Last-Translator: nuxsmin <nuxsmin@syspass.org>\n"
 "Language-Team: nuxsmin@syspass.org\n"
 "Language: cs_CZ\n"
@@ -5659,7 +5659,7 @@ msgstr "This extension is needed to check for sysPass updates and notices"
 #: app/modules/web/themes/material-blue/views/config/general-site.inc:31
 #: app/modules/web/themes/material-blue/views/usersettings/general.inc:21
 msgid "Site"
-msgstr "Site"
+msgstr "Aplikace"
 
 #: app/modules/web/themes/material-blue/views/config/general-site.inc:37
 #: app/modules/web/themes/material-blue/views/config/general-site.inc:51
@@ -5670,7 +5670,7 @@ msgstr "Site"
 #: app/modules/web/themes/material-blue/views/usersettings/general.inc:33
 #: app/modules/web/themes/material-blue/views/usersettings/general.inc:35
 msgid "Language"
-msgstr "Language"
+msgstr "Jazyk"
 
 #: app/modules/web/themes/material-blue/views/config/general-site.inc:42
 msgid ""
@@ -5691,7 +5691,7 @@ msgstr ""
 #: app/modules/web/themes/material-blue/views/usersettings/general.inc:48
 #: app/modules/web/themes/material-blue/views/usersettings/general.inc:50
 msgid "Visual Theme"
-msgstr "Visual Theme"
+msgstr "Téma"
 
 #: app/modules/web/themes/material-blue/views/config/general-site.inc:70
 msgid ""
@@ -5709,7 +5709,7 @@ msgstr "Session timeout (s)"
 #: app/modules/web/themes/material-blue/views/config/general-site.inc:107
 #: app/modules/web/themes/material-blue/views/config/general-site.inc:123
 msgid "Application URL"
-msgstr ""
+msgstr "URL Aplikace"
 
 #: app/modules/web/themes/material-blue/views/config/general-site.inc:112
 msgid ""
@@ -5719,7 +5719,7 @@ msgstr ""
 
 #: app/modules/web/themes/material-blue/views/config/general-site.inc:142
 msgid "Force HTTPS"
-msgstr "Force HTTPS"
+msgstr "Vynutit HTTPS"
 
 #: app/modules/web/themes/material-blue/views/config/general-site.inc:143
 msgid "It forces the use of HTTPS on all the connections"
@@ -5727,7 +5727,7 @@ msgstr "It forces the use of HTTPS on all the connections"
 
 #: app/modules/web/themes/material-blue/views/config/general-site.inc:158
 msgid "Enable debug"
-msgstr "Enable debug"
+msgstr "Povolit ladění"
 
 #: app/modules/web/themes/material-blue/views/config/general-site.inc:159
 msgid ""
@@ -5737,7 +5737,7 @@ msgstr ""
 
 #: app/modules/web/themes/material-blue/views/config/general-site.inc:174
 msgid "Maintenance mode"
-msgstr "Maintenance mode"
+msgstr "Režim údržby"
 
 #: app/modules/web/themes/material-blue/views/config/general-site.inc:175
 msgid ""
@@ -5749,7 +5749,7 @@ msgstr ""
 
 #: app/modules/web/themes/material-blue/views/config/general-site.inc:190
 msgid "Check for updates"
-msgstr "Check for updates"
+msgstr "Kontrola aktualizací"
 
 #: app/modules/web/themes/material-blue/views/config/general-site.inc:191
 msgid "Check for application updates (only for administrators)."
@@ -5769,7 +5769,7 @@ msgstr ""
 
 #: app/modules/web/themes/material-blue/views/config/general-site.inc:222
 msgid "Encrypt Session"
-msgstr "Encrypt Session"
+msgstr "Šifrovat sessions"
 
 #: app/modules/web/themes/material-blue/views/config/general-site.inc:224
 msgid "Encrypt PHP session data"
@@ -5791,7 +5791,7 @@ msgstr "CSV/XML Import"
 #: app/modules/web/themes/material-blue/views/config/import.inc:24
 #: app/modules/web/themes/material-blue/views/config/import.inc:35
 msgid "Default User"
-msgstr "Default User"
+msgstr "Výchozí uživatel"
 
 #: app/modules/web/themes/material-blue/views/config/import.inc:30
 msgid "Sets the default user for the accounts imported."
@@ -5854,7 +5854,7 @@ msgstr "XML"
 #: app/modules/web/themes/material-blue/views/config/import.inc:141
 #: app/modules/web/themes/material-blue/views/config/import.inc:156
 msgid "Import Password"
-msgstr "Import Password"
+msgstr "Importovat heslo"
 
 #: app/modules/web/themes/material-blue/views/config/import.inc:146
 msgid "It's only needed for sysPass XML files that have been encrypted."
@@ -5883,17 +5883,17 @@ msgstr "It's only needed for CSV files."
 
 #: app/modules/web/themes/material-blue/views/config/info.inc:20
 msgid "Application Information"
-msgstr "Infrmace o aplikaci"
+msgstr "Informace o aplikaci"
 
 #: app/modules/web/themes/material-blue/views/config/info.inc:26
 #: app/modules/web/themes/material-blue/views/config/info.inc:29
 msgid "sysPass version"
-msgstr "sysPass version"
+msgstr "sysPass verze"
 
 #: app/modules/web/themes/material-blue/views/config/info.inc:42
 #: app/modules/web/themes/material-blue/views/config/info.inc:45
 msgid "Database"
-msgstr "Database"
+msgstr "Databáze"
 
 #: app/modules/web/themes/material-blue/views/config/info.inc:56
 #: app/modules/web/themes/material-blue/views/config/info.inc:59
@@ -5902,7 +5902,7 @@ msgstr "PHP"
 
 #: app/modules/web/themes/material-blue/views/config/info.inc:63
 msgid "Extensions"
-msgstr "Extensions"
+msgstr "Přípony"
 
 #: app/modules/web/themes/material-blue/views/config/info.inc:67
 msgid "Unavailable extensions"
@@ -5955,7 +5955,7 @@ msgstr "Tells whether the session data are encrypted in the server side or not"
 #: app/modules/web/themes/material-blue/views/config/info.inc:157
 #: app/modules/web/themes/material-blue/views/config/info.inc:160
 msgid "Loaded Plugins"
-msgstr "Loaded Plugins"
+msgstr "Načtené pluginy"
 
 #: app/modules/web/themes/material-blue/views/config/info.inc:183
 #: app/modules/web/themes/material-blue/views/config/info.inc:186
@@ -5968,7 +5968,7 @@ msgstr "This extension is needed to connect to the LDAP server"
 
 #: app/modules/web/themes/material-blue/views/config/ldap.inc:54
 msgid "Enable LDAP"
-msgstr "Enable LDAP"
+msgstr "Povolit LDAP"
 
 #: app/modules/web/themes/material-blue/views/config/ldap.inc:56
 msgid "Enables authentication against an LDAP server."
@@ -5986,7 +5986,7 @@ msgstr "Enables the connection over TLS"
 #: app/modules/web/themes/material-blue/views/config/ldap.inc:87
 #: app/modules/web/themes/material-blue/views/config/ldap.inc:91
 msgid "Server Type"
-msgstr "Server Type"
+msgstr "Typ serveru"
 
 #: app/modules/web/themes/material-blue/views/config/ldap.inc:108
 msgid "Hostname or IP address of LDAP server."
@@ -5998,7 +5998,7 @@ msgstr "Hostname or IP address of LDAP server."
 #: app/modules/web/themes/material-blue/views/config/ldap.inc:248
 #: app/modules/web/themes/material-blue/views/config/wiki.inc:130
 msgid "Examples:"
-msgstr "Examples:"
+msgstr "Příklady:"
 
 #: app/modules/web/themes/material-blue/views/config/ldap.inc:135
 msgid "Bind User"
@@ -6132,7 +6132,7 @@ msgstr "Sender email address"
 #: app/modules/web/themes/material-blue/views/config/mail.inc:184
 #: app/modules/web/themes/material-blue/views/config/mail.inc:187
 msgid "Recipients"
-msgstr "Recipients"
+msgstr "Příjemci"
 
 #: app/modules/web/themes/material-blue/views/config/wiki-dokuwiki.inc:22
 msgid "This extension is needed to connect with DokuWiki"
@@ -6172,7 +6172,7 @@ msgstr "DokuWiki API URL"
 #: app/modules/web/themes/material-blue/views/config/wiki.inc:64
 #: app/modules/web/themes/material-blue/views/config/wiki.inc:99
 msgid "Example:"
-msgstr "Example:"
+msgstr "Příklad:"
 
 #: app/modules/web/themes/material-blue/views/config/wiki-dokuwiki.inc:98
 #: app/modules/web/themes/material-blue/views/config/wiki-dokuwiki.inc:123
@@ -6309,7 +6309,7 @@ msgstr "It does not create or verify the user's permissions on the DB"
 #: app/modules/web/themes/material-blue/views/itemshow/account_bulkedit.inc:32
 #: app/modules/web/themes/material-blue/views/itemshow/user_profile.inc:39
 msgid "Others"
-msgstr "Others"
+msgstr "Ostatní"
 
 #: app/modules/web/themes/material-blue/views/itemshow/account_bulkedit.inc:77
 #: app/modules/web/themes/material-blue/views/itemshow/account_bulkedit.inc:79
