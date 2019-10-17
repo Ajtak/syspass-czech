@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: sysPass\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-04-29 01:28+0200\n"
-"PO-Revision-Date: 2019-10-17 12:29+0200\n"
+"PO-Revision-Date: 2019-10-17 12:36+0200\n"
 "Last-Translator: nuxsmin <nuxsmin@syspass.org>\n"
 "Language-Team: nuxsmin@syspass.org\n"
 "Language: cs_CZ\n"
@@ -1138,7 +1138,7 @@ msgstr "No"
 #: app/modules/web/themes/material-blue/views/itemshow/user_profile.inc:33
 #: app/modules/web/themes/material-blue/views/itemshow/user_profile.inc:429
 msgid "Accounts"
-msgstr "Accounts"
+msgstr "Účty"
 
 #: app/modules/web/Controllers/ConfigBackupController.php:127
 #: app/modules/web/Controllers/Helpers/Grid/ClientGrid.php:93
@@ -1398,7 +1398,7 @@ msgstr "Please, check your inbox"
 #: app/modules/web/themes/material-blue/views/itemshow/item_preset.inc:26
 #: app/modules/web/themes/material-blue/views/itemshow/user_profile.inc:484
 msgid "General"
-msgstr "General"
+msgstr "Obecné"
 
 #: app/modules/web/Controllers/ConfigManagerController.php:218
 #: app/modules/web/themes/material-blue/views/config/wiki.inc:22
@@ -1417,7 +1417,7 @@ msgstr "Mail"
 #: app/modules/web/Controllers/ConfigManagerController.php:312
 #: app/modules/web/themes/material-blue/views/itemshow/user_profile.inc:501
 msgid "Encryption"
-msgstr "Encryption"
+msgstr "Šifrování"
 
 #: app/modules/web/Controllers/ConfigManagerController.php:340
 #: app/modules/web/themes/material-blue/views/config/backup.inc:68
@@ -1434,11 +1434,11 @@ msgstr "No export file found"
 #: app/modules/web/themes/material-blue/views/config/backup.inc:86
 #: app/modules/web/themes/material-blue/views/itemshow/user_profile.inc:518
 msgid "Backup"
-msgstr "Backup"
+msgstr "Zálohování"
 
 #: app/modules/web/Controllers/ConfigManagerController.php:376
 msgid "Import Accounts"
-msgstr "Import Accounts"
+msgstr "Import účtů"
 
 #: app/modules/web/Controllers/ConfigManagerController.php:398
 msgid "Not installed"
@@ -1447,7 +1447,7 @@ msgstr "Not installed"
 #: app/modules/web/Controllers/ConfigManagerController.php:408
 #: app/modules/web/themes/material-blue/inc/Icons.php:62
 msgid "Information"
-msgstr "Information"
+msgstr "Systémové informace"
 
 #: app/modules/web/Controllers/ConfigWikiController.php:64
 msgid "Missing Wiki parameters"
@@ -2454,7 +2454,7 @@ msgstr "Hodnota byla aktualizována"
 
 #: app/modules/web/Controllers/ItemsController.php:140
 msgid "There aren't any pending notifications"
-msgstr "There aren't any pending notifications"
+msgstr "Nemáte žádné nepřečtené notifikace"
 
 #: app/modules/web/Controllers/ItemsController.php:141
 #, php-format
@@ -2582,7 +2582,7 @@ msgstr "Tracks cleared out"
 
 #: app/modules/web/Controllers/Traits/ConfigTrait.php:69
 msgid "Configuration updated"
-msgstr "Configuration updated"
+msgstr "Nastavení bylo změněno"
 
 #: app/modules/web/Controllers/Traits/ConfigTrait.php:73
 msgid "Error while saving the configuration"
@@ -5883,7 +5883,7 @@ msgstr "It's only needed for CSV files."
 
 #: app/modules/web/themes/material-blue/views/config/info.inc:20
 msgid "Application Information"
-msgstr "Application Information"
+msgstr "Infrmace o aplikaci"
 
 #: app/modules/web/themes/material-blue/views/config/info.inc:26
 #: app/modules/web/themes/material-blue/views/config/info.inc:29
@@ -5923,7 +5923,7 @@ msgstr "OP Cache"
 #: app/modules/web/themes/material-blue/views/config/info.inc:97
 #: app/modules/web/themes/material-blue/views/config/info.inc:100
 msgid "Configuration Backup"
-msgstr "Configuration Backup"
+msgstr "Zálohovat konfiguraci"
 
 #: app/modules/web/themes/material-blue/views/config/info.inc:110
 #: app/modules/web/themes/material-blue/views/config/info.inc:192
