@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: sysPass\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-04-29 01:28+0200\n"
-"PO-Revision-Date: 2019-10-17 11:33+0200\n"
+"PO-Revision-Date: 2019-10-17 12:29+0200\n"
 "Last-Translator: nuxsmin <nuxsmin@syspass.org>\n"
 "Language-Team: nuxsmin@syspass.org\n"
 "Language: cs_CZ\n"
@@ -1161,7 +1161,7 @@ msgstr "Categories"
 #: app/modules/web/themes/material-blue/views/itemshow/account_bulkedit.inc:109
 #: app/modules/web/themes/material-blue/views/itemshow/user_profile.inc:344
 msgid "Tags"
-msgstr "Tags"
+msgstr "Štítky"
 
 #: app/modules/web/Controllers/ConfigDokuWikiController.php:66
 msgid "Missing DokuWiki parameters"
@@ -1579,7 +1579,7 @@ msgstr "View Current"
 #: app/modules/web/themes/material-blue/views/userpassreset/reset.inc:60
 #: app/modules/web/themes/material-blue/views/usersettings/general.inc:231
 msgid "Back"
-msgstr "Back"
+msgstr "Zpět"
 
 #: app/modules/web/Controllers/Helpers/Account/AccountActionsHelper.php:196
 #: app/modules/web/Controllers/Helpers/Account/AccountActionsHelper.php:197
@@ -1596,7 +1596,7 @@ msgstr "Restore account from this point"
 #: app/modules/web/themes/material-blue/inc/Icons.php:50
 #: app/modules/web/themes/material-blue/views/account/account-editpass.inc:150
 msgid "Save"
-msgstr "Save"
+msgstr "Uložit"
 
 #: app/modules/web/Controllers/Helpers/Account/AccountActionsHelper.php:354
 #: app/modules/web/Controllers/Helpers/Account/AccountActionsHelper.php:355
@@ -1776,7 +1776,7 @@ msgstr "Delete Selected"
 #: app/modules/web/themes/material-blue/views/account/details.inc:48
 #: app/modules/web/themes/material-blue/views/account/details.inc:50
 msgid "Owner"
-msgstr "Owner"
+msgstr "Vlastník"
 
 #: app/modules/web/Controllers/Helpers/Grid/AccountGrid.php:117
 #: app/modules/web/themes/material-blue/views/account/account-permissions.inc:208
@@ -1785,7 +1785,7 @@ msgstr "Owner"
 #: app/modules/web/themes/material-blue/views/itemshow/account_bulkedit.inc:93
 #: app/modules/web/themes/material-blue/views/itemshow/account_bulkedit.inc:95
 msgid "Main Group"
-msgstr "Main Group"
+msgstr "Hlavní skupina"
 
 #: app/modules/web/Controllers/Helpers/Grid/AccountGrid.php:149
 #: app/modules/web/Controllers/Helpers/Grid/AccountHistoryGrid.php:145
@@ -1807,7 +1807,7 @@ msgstr "Accounts (H)"
 #: app/modules/web/themes/material-blue/views/notification/notification.inc:66
 #: app/modules/web/themes/material-blue/views/wiki/wikipage.inc:42
 msgid "Date"
-msgstr "Date"
+msgstr "Datum"
 
 #: app/modules/web/Controllers/Helpers/Grid/AccountHistoryGrid.php:108
 #: app/modules/web/Controllers/Helpers/Grid/NotificationGrid.php:131
@@ -1817,16 +1817,16 @@ msgstr "Status"
 
 #: app/modules/web/Controllers/Helpers/Grid/AccountHistoryGrid.php:129
 msgid "Modified"
-msgstr "Modified"
+msgstr "Upraveno"
 
 #: app/modules/web/Controllers/Helpers/Grid/AccountHistoryGrid.php:130
 msgid "Removed"
-msgstr "Removed"
+msgstr "Odstraněno"
 
 #: app/modules/web/Controllers/Helpers/Grid/AccountHistoryGrid.php:160
 #: app/modules/web/Controllers/Helpers/Grid/AccountHistoryGrid.php:161
 msgid "Account Restore"
-msgstr "Account Restore"
+msgstr "Obnova účtu"
 
 #: app/modules/web/Controllers/Helpers/Grid/AuthTokenGrid.php:95
 #: app/modules/web/themes/material-blue/views/itemshow/user_profile.inc:395
@@ -1838,7 +1838,7 @@ msgstr "API Authorizations"
 #: app/modules/web/themes/material-blue/views/itemshow/auth_token.inc:44
 #: app/modules/web/themes/material-blue/views/itemshow/auth_token.inc:46
 msgid "Action"
-msgstr "Action"
+msgstr "Akce"
 
 #: app/modules/web/Controllers/Helpers/Grid/AuthTokenGrid.php:140
 msgid "Search for Token"
@@ -1861,30 +1861,30 @@ msgstr "Search for Category"
 #: app/modules/web/Controllers/Helpers/Grid/CategoryGrid.php:187
 #: app/modules/web/Controllers/Helpers/Grid/CategoryGrid.php:188
 msgid "Delete Category"
-msgstr "Delete Category"
+msgstr "Odstranit kategorii"
 
 #: app/modules/web/Controllers/Helpers/Grid/ClientGrid.php:123
 msgid "YES"
-msgstr "YES"
+msgstr "Ano"
 
 #: app/modules/web/Controllers/Helpers/Grid/ClientGrid.php:123
 msgid "NO"
-msgstr "NO"
+msgstr "Ne"
 
 #: app/modules/web/Controllers/Helpers/Grid/ClientGrid.php:140
 msgid "Search for Client"
-msgstr "Search for Client"
+msgstr "Vyhledat klienta"
 
 #: app/modules/web/Controllers/Helpers/Grid/ClientGrid.php:190
 #: app/modules/web/Controllers/Helpers/Grid/ClientGrid.php:191
 msgid "Delete Client"
-msgstr "Delete Client"
+msgstr "Odstranit klienta"
 
 #: app/modules/web/Controllers/Helpers/Grid/CustomFieldGrid.php:95
 #: app/modules/web/themes/material-blue/views/account/account.inc:41
 #: app/modules/web/themes/material-blue/views/itemshow/user_profile.inc:378
 msgid "Custom Fields"
-msgstr "Custom Fields"
+msgstr "Vlastní pole"
 
 #: app/modules/web/Controllers/Helpers/Grid/CustomFieldGrid.php:108
 #: app/modules/web/themes/material-blue/views/itemshow/custom_field.inc:59
@@ -1910,7 +1910,7 @@ msgstr "Delete Field"
 #: app/modules/web/themes/material-blue/views/eventlog/index.inc:3
 #: app/modules/web/themes/material-blue/views/itemshow/user_profile.inc:556
 msgid "Event Log"
-msgstr "Event Log"
+msgstr "Protokol událostí"
 
 #: app/modules/web/Controllers/Helpers/Grid/EventlogGrid.php:99
 #: app/modules/web/Controllers/ItemPresetController.php:307
@@ -1923,7 +1923,7 @@ msgstr "ID"
 
 #: app/modules/web/Controllers/Helpers/Grid/EventlogGrid.php:100
 msgid "Date / Time"
-msgstr "Date / Time"
+msgstr "Datum / čas"
 
 #: app/modules/web/Controllers/Helpers/Grid/EventlogGrid.php:101
 msgid "Level"
@@ -1931,14 +1931,14 @@ msgstr "Level"
 
 #: app/modules/web/Controllers/Helpers/Grid/EventlogGrid.php:102
 msgid "Event"
-msgstr "Event"
+msgstr "Událost"
 
 #: app/modules/web/Controllers/Helpers/Grid/EventlogGrid.php:103
 #: app/modules/web/Controllers/Helpers/Grid/UserGrid.php:109
 #: app/modules/web/themes/material-blue/views/itemshow/user.inc:61
 #: app/modules/web/themes/material-blue/views/itemshow/user_pass.inc:40
 msgid "Login"
-msgstr "Login"
+msgstr "Přihlášení"
 
 #: app/modules/web/Controllers/Helpers/Grid/EventlogGrid.php:165
 msgid "Search for Events"
@@ -1949,7 +1949,7 @@ msgstr "Search for Events"
 #: app/modules/web/Controllers/Helpers/Grid/TrackGrid.php:178
 #: app/modules/web/Controllers/Helpers/Grid/TrackGrid.php:179
 msgid "Refresh"
-msgstr "Refresh"
+msgstr "Obnovit"
 
 #: app/modules/web/Controllers/Helpers/Grid/EventlogGrid.php:200
 #: app/modules/web/Controllers/Helpers/Grid/EventlogGrid.php:201
@@ -1962,29 +1962,29 @@ msgstr "Clear the event log out"
 #: app/modules/web/themes/material-blue/views/itemshow/user_profile.inc:167
 #: app/modules/web/themes/material-blue/views/itemshow/user_profile.inc:446
 msgid "Files"
-msgstr "Files"
+msgstr "Soubory"
 
 #: app/modules/web/Controllers/Helpers/Grid/FileGrid.php:145
 msgid "Search for File"
-msgstr "Search for File"
+msgstr "Vyhledat soubor"
 
 #: app/modules/web/Controllers/Helpers/Grid/FileGrid.php:160
 #: app/modules/web/Controllers/Helpers/Grid/FileGrid.php:161
 #: app/modules/web/themes/material-blue/views/account/files-list.inc:59
 msgid "View File"
-msgstr "View File"
+msgstr "Zobrazit soubor"
 
 #: app/modules/web/Controllers/Helpers/Grid/FileGrid.php:178
 #: app/modules/web/Controllers/Helpers/Grid/FileGrid.php:179
 #: app/modules/web/themes/material-blue/views/account/files-list.inc:50
 msgid "Download File"
-msgstr "Download File"
+msgstr "Stáhnout soubor"
 
 #: app/modules/web/Controllers/Helpers/Grid/FileGrid.php:198
 #: app/modules/web/Controllers/Helpers/Grid/FileGrid.php:199
 #: app/modules/web/themes/material-blue/views/account/files-list.inc:42
 msgid "Delete File"
-msgstr "Delete File"
+msgstr "Odstranit soubor"
 
 #: app/modules/web/Controllers/Helpers/Grid/ItemPresetGrid.php:97
 msgid "Preset Values"
@@ -2015,7 +2015,7 @@ msgstr "Preset Values"
 #: app/modules/web/themes/material-blue/views/itemshow/user.inc:164
 #: app/modules/web/themes/material-blue/views/itemshow/user.inc:166
 msgid "Group"
-msgstr "Group"
+msgstr "Skupina"
 
 #: app/modules/web/Controllers/Helpers/Grid/ItemPresetGrid.php:112
 #: app/modules/web/Controllers/Helpers/Grid/UserGrid.php:110
@@ -2026,12 +2026,12 @@ msgstr "Group"
 #: app/modules/web/themes/material-blue/views/itemshow/user.inc:146
 #: app/modules/web/themes/material-blue/views/itemshow/user.inc:148
 msgid "Profile"
-msgstr "Profile"
+msgstr "Profil"
 
 #: app/modules/web/Controllers/Helpers/Grid/ItemPresetGrid.php:113
 #: app/modules/web/themes/material-blue/views/itemshow/item_preset.inc:96
 msgid "Priority"
-msgstr "Priority"
+msgstr "Priorita"
 
 #: app/modules/web/Controllers/Helpers/Grid/ItemPresetGrid.php:114
 #: app/modules/web/themes/material-blue/views/itemshow/item_preset.inc:137
@@ -2082,12 +2082,12 @@ msgstr "New Account Password Preset"
 #: app/modules/web/Controllers/Helpers/Grid/ItemPresetGrid.php:260
 #: app/modules/web/Controllers/ItemPresetController.php:255
 msgid "Edit Value"
-msgstr "Edit Value"
+msgstr "Editovat hodnotu"
 
 #: app/modules/web/Controllers/Helpers/Grid/ItemPresetGrid.php:276
 #: app/modules/web/Controllers/Helpers/Grid/ItemPresetGrid.php:277
 msgid "Delete Value"
-msgstr "Delete Value"
+msgstr "Smazat hodnotu"
 
 #: app/modules/web/Controllers/Helpers/Grid/NotificationGrid.php:114
 #: app/modules/web/themes/material-blue/inc/Icons.php:64
@@ -2106,28 +2106,28 @@ msgstr "Component"
 #: app/modules/web/themes/material-blue/views/notification/notification.inc:133
 #: app/modules/web/themes/material-blue/views/notification/notification.inc:137
 msgid "Read"
-msgstr "Read"
+msgstr "Čtení"
 
 #: app/modules/web/Controllers/Helpers/Grid/NotificationGrid.php:154
 #: app/modules/web/themes/material-blue/views/notification/notification.inc:128
 msgid "Only Admins"
-msgstr "Only Admins"
+msgstr "Pouze administrátoři"
 
 #: app/modules/web/Controllers/Helpers/Grid/NotificationGrid.php:171
 msgid "Search for Notification"
-msgstr "Search for Notification"
+msgstr "Vyhledat notifikaci"
 
 #: app/modules/web/Controllers/Helpers/Grid/NotificationGrid.php:186
 #: app/modules/web/Controllers/Helpers/Grid/NotificationGrid.php:187
 #: app/modules/web/Controllers/NotificationController.php:204
 msgid "New Notification"
-msgstr "New Notification"
+msgstr "Nová notifikace"
 
 #: app/modules/web/Controllers/Helpers/Grid/NotificationGrid.php:204
 #: app/modules/web/Controllers/Helpers/Grid/NotificationGrid.php:205
 #: app/modules/web/Controllers/NotificationController.php:121
 msgid "View Notification"
-msgstr "View Notification"
+msgstr "Zobrazit notifikaci"
 
 #: app/modules/web/Controllers/Helpers/Grid/NotificationGrid.php:234
 #: app/modules/web/Controllers/Helpers/Grid/NotificationGrid.php:235
@@ -2138,12 +2138,12 @@ msgstr "Checkout Notification"
 #: app/modules/web/Controllers/Helpers/Grid/NotificationGrid.php:253
 #: app/modules/web/Controllers/NotificationController.php:238
 msgid "Edit Notification"
-msgstr "Edit Notification"
+msgstr "Editovat notifikaci"
 
 #: app/modules/web/Controllers/Helpers/Grid/NotificationGrid.php:269
 #: app/modules/web/Controllers/Helpers/Grid/NotificationGrid.php:270
 msgid "Delete Notification"
-msgstr "Delete Notification"
+msgstr "Smazat notifikaci"
 
 #: app/modules/web/Controllers/Helpers/Grid/PluginGrid.php:96
 #: app/modules/web/Controllers/Helpers/LayoutHelper.php:332
@@ -2159,42 +2159,42 @@ msgstr "Plugin"
 
 #: app/modules/web/Controllers/Helpers/Grid/PluginGrid.php:125
 msgid "Unavailable"
-msgstr "Unavailable"
+msgstr "Nedostupné"
 
 #: app/modules/web/Controllers/Helpers/Grid/PluginGrid.php:141
 msgid "Search for Plugin"
-msgstr "Search for Plugin"
+msgstr "Vyhledat plugin"
 
 #: app/modules/web/Controllers/Helpers/Grid/PluginGrid.php:156
 #: app/modules/web/Controllers/Helpers/Grid/PluginGrid.php:157
 #: app/modules/web/Controllers/PluginController.php:149
 msgid "View Plugin"
-msgstr "View Plugin"
+msgstr "Zobrait plugin"
 
 #: app/modules/web/Controllers/Helpers/Grid/PluginGrid.php:173
 #: app/modules/web/Controllers/Helpers/Grid/PluginGrid.php:174
 msgid "Enable"
-msgstr "Enable"
+msgstr "Povolit"
 
 #: app/modules/web/Controllers/Helpers/Grid/PluginGrid.php:192
 #: app/modules/web/Controllers/Helpers/Grid/PluginGrid.php:193
 msgid "Disable"
-msgstr "Disable"
+msgstr "Zakázat"
 
 #: app/modules/web/Controllers/Helpers/Grid/PluginGrid.php:211
 #: app/modules/web/Controllers/Helpers/Grid/PluginGrid.php:212
 msgid "Reset Data"
-msgstr "Reset Data"
+msgstr "Resetovat"
 
 #: app/modules/web/Controllers/Helpers/Grid/PluginGrid.php:231
 #: app/modules/web/Controllers/Helpers/Grid/PluginGrid.php:232
 msgid "Delete Plugin"
-msgstr "Delete Plugin"
+msgstr "Odstranit plugin"
 
 #: app/modules/web/Controllers/Helpers/Grid/PublicLinkGrid.php:96
 #: app/modules/web/themes/material-blue/views/account/account.inc:61
 msgid "Links"
-msgstr "Links"
+msgstr "Odkazy"
 
 #: app/modules/web/Controllers/Helpers/Grid/PublicLinkGrid.php:110
 #: app/modules/web/themes/material-blue/views/itemshow/public_link.inc:59
@@ -2206,14 +2206,14 @@ msgstr "Creation Date"
 #: app/modules/web/themes/material-blue/views/itemshow/public_link.inc:67
 #: app/modules/web/themes/material-blue/views/itemshow/public_link.inc:69
 msgid "Expiry Date "
-msgstr "Expiry Date "
+msgstr "Datum expirace "
 
 #: app/modules/web/Controllers/Helpers/Grid/PublicLinkGrid.php:113
 #: app/modules/web/themes/material-blue/views/itemshow/public_link.inc:45
 #: app/modules/web/themes/material-blue/views/itemshow/public_link.inc:49
 #: app/modules/web/themes/material-blue/views/itemshow/public_link.inc:53
 msgid "Notify"
-msgstr "Notify"
+msgstr "Notifikace"
 
 #: app/modules/web/Controllers/Helpers/Grid/PublicLinkGrid.php:114
 #: app/modules/web/themes/material-blue/views/account/details.inc:20
@@ -2231,45 +2231,45 @@ msgstr "Search for Link"
 #: app/modules/web/Controllers/Helpers/Grid/PublicLinkGrid.php:166
 #: app/modules/web/Controllers/Helpers/Grid/PublicLinkGrid.php:167
 msgid "New Link"
-msgstr "New Link"
+msgstr "Nový odkaz"
 
 #: app/modules/web/Controllers/Helpers/Grid/PublicLinkGrid.php:184
 #: app/modules/web/Controllers/Helpers/Grid/PublicLinkGrid.php:185
 #: app/modules/web/Controllers/PublicLinkController.php:381
 msgid "View Link"
-msgstr "View Link"
+msgstr "Zobrazit odkaz"
 
 #: app/modules/web/Controllers/Helpers/Grid/PublicLinkGrid.php:200
 #: app/modules/web/Controllers/Helpers/Grid/PublicLinkGrid.php:201
 msgid "Renew Link"
-msgstr "Renew Link"
+msgstr "Obnovit odkaz"
 
 #: app/modules/web/Controllers/Helpers/Grid/PublicLinkGrid.php:217
 #: app/modules/web/Controllers/Helpers/Grid/PublicLinkGrid.php:218
 msgid "Delete Link"
-msgstr "Delete Link"
+msgstr "Smazat odkaz"
 
 #: app/modules/web/Controllers/Helpers/Grid/TagGrid.php:135
 msgid "Search for Tag"
-msgstr "Search for Tag"
+msgstr "Vyhledat štítek"
 
 #: app/modules/web/Controllers/Helpers/Grid/TagGrid.php:150
 #: app/modules/web/Controllers/Helpers/Grid/TagGrid.php:151
 #: app/modules/web/Controllers/TagController.php:118
 #: app/modules/web/themes/material-blue/views/account/account.inc:253
 msgid "New Tag"
-msgstr "New Tag"
+msgstr "Nový štítek"
 
 #: app/modules/web/Controllers/Helpers/Grid/TagGrid.php:168
 #: app/modules/web/Controllers/Helpers/Grid/TagGrid.php:169
 #: app/modules/web/Controllers/TagController.php:180
 msgid "Edit Tag"
-msgstr "Edit Tag"
+msgstr "Editovat štítek"
 
 #: app/modules/web/Controllers/Helpers/Grid/TagGrid.php:185
 #: app/modules/web/Controllers/Helpers/Grid/TagGrid.php:186
 msgid "Delete Tag"
-msgstr "Delete Tag"
+msgstr "Odstranit štítek"
 
 #: app/modules/web/Controllers/Helpers/Grid/TrackGrid.php:88
 msgid "Tracks"
@@ -2281,7 +2281,7 @@ msgstr "Date Unlocked"
 
 #: app/modules/web/Controllers/Helpers/Grid/TrackGrid.php:102
 msgid "Source"
-msgstr "Source"
+msgstr "Zdroj"
 
 #: app/modules/web/Controllers/Helpers/Grid/TrackGrid.php:162
 msgid "Search for track"
@@ -2297,28 +2297,28 @@ msgstr "Search for track"
 #: app/modules/web/themes/material-blue/views/itemshow/user_group.inc:67
 #: app/modules/web/themes/material-blue/views/itemshow/user_profile.inc:276
 msgid "Users"
-msgstr "Users"
+msgstr "Uživatelé"
 
 #: app/modules/web/Controllers/Helpers/Grid/UserGrid.php:148
 msgid "Search for User"
-msgstr "Search for User"
+msgstr "Vyhledat uživatele"
 
 #: app/modules/web/Controllers/Helpers/Grid/UserGrid.php:163
 #: app/modules/web/Controllers/Helpers/Grid/UserGrid.php:164
 #: app/modules/web/Controllers/UserController.php:126
 msgid "New User"
-msgstr "New User"
+msgstr "Nový uživatel"
 
 #: app/modules/web/Controllers/Helpers/Grid/UserGrid.php:181
 #: app/modules/web/Controllers/Helpers/Grid/UserGrid.php:182
 #: app/modules/web/Controllers/UserController.php:213
 msgid "Edit User"
-msgstr "Edit User"
+msgstr "Editace uživatele"
 
 #: app/modules/web/Controllers/Helpers/Grid/UserGrid.php:198
 #: app/modules/web/Controllers/Helpers/Grid/UserGrid.php:199
 msgid "Delete User"
-msgstr "Delete User"
+msgstr "Odstranit uživatele"
 
 #: app/modules/web/Controllers/Helpers/Grid/UserGrid.php:215
 #: app/modules/web/Controllers/Helpers/Grid/UserGrid.php:216
@@ -2331,7 +2331,7 @@ msgstr "View User Details"
 #: app/modules/web/themes/material-blue/views/_partials/fixed-header.inc:130
 #: app/modules/web/themes/material-blue/views/_partials/fixed-header.inc:136
 msgid "Change User's Password"
-msgstr "Change User's Password"
+msgstr "Změnit heslo"
 
 #: app/modules/web/Controllers/Helpers/Grid/UserGroupGrid.php:95
 #: lib/SP/Services/CustomField/CustomFieldDefService.php:83
@@ -2340,34 +2340,34 @@ msgstr "Change User's Password"
 #: app/modules/web/themes/material-blue/views/itemshow/item_preset-permission.inc:61
 #: app/modules/web/themes/material-blue/views/itemshow/user_profile.inc:293
 msgid "Groups"
-msgstr "Groups"
+msgstr "Skupiny"
 
 #: app/modules/web/Controllers/Helpers/Grid/UserGroupGrid.php:138
 msgid "Search for Group"
-msgstr "Search for Group"
+msgstr "Vyhledat skupinu"
 
 #: app/modules/web/Controllers/Helpers/Grid/UserGroupGrid.php:153
 #: app/modules/web/Controllers/Helpers/Grid/UserGroupGrid.php:154
 #: app/modules/web/Controllers/UserGroupController.php:127
 msgid "New Group"
-msgstr "New Group"
+msgstr "Nová skupina"
 
 #: app/modules/web/Controllers/Helpers/Grid/UserGroupGrid.php:171
 #: app/modules/web/Controllers/Helpers/Grid/UserGroupGrid.php:172
 #: app/modules/web/Controllers/UserGroupController.php:366
 msgid "View Group"
-msgstr "View Group"
+msgstr "Zobrazit skupinu"
 
 #: app/modules/web/Controllers/Helpers/Grid/UserGroupGrid.php:188
 #: app/modules/web/Controllers/Helpers/Grid/UserGroupGrid.php:189
 #: app/modules/web/Controllers/UserGroupController.php:200
 msgid "Edit Group"
-msgstr "Edit Group"
+msgstr "Editovat skupinu"
 
 #: app/modules/web/Controllers/Helpers/Grid/UserGroupGrid.php:205
 #: app/modules/web/Controllers/Helpers/Grid/UserGroupGrid.php:206
 msgid "Delete Group"
-msgstr "Delete Group"
+msgstr "Odstranit skupinu"
 
 #: app/modules/web/Controllers/Helpers/Grid/UserProfileGrid.php:95
 #: app/modules/web/themes/material-blue/views/itemshow/user_profile.inc:310
@@ -2382,7 +2382,7 @@ msgstr "Search for Profile"
 #: app/modules/web/Controllers/Helpers/Grid/UserProfileGrid.php:152
 #: app/modules/web/Controllers/UserProfileController.php:121
 msgid "New Profile"
-msgstr "New Profile"
+msgstr "Nový profil"
 
 #: app/modules/web/Controllers/Helpers/Grid/UserProfileGrid.php:169
 #: app/modules/web/Controllers/Helpers/Grid/UserProfileGrid.php:170
@@ -2393,7 +2393,7 @@ msgstr "View Profile Details"
 #: app/modules/web/Controllers/Helpers/Grid/UserProfileGrid.php:187
 #: app/modules/web/Controllers/UserProfileController.php:190
 msgid "Edit Profile"
-msgstr "Edit Profile"
+msgstr "Editovat profil"
 
 #: app/modules/web/Controllers/Helpers/Grid/UserProfileGrid.php:203
 #: app/modules/web/Controllers/Helpers/Grid/UserProfileGrid.php:204
@@ -2414,7 +2414,7 @@ msgstr "Konfigurace"
 
 #: app/modules/web/Controllers/InstallController.php:60
 msgid "Module unavailable"
-msgstr "Module unavailable"
+msgstr "Modul je nedostupný"
 
 #: app/modules/web/Controllers/InstallController.php:61
 msgid "Without this module the application could not run correctly"
@@ -2422,7 +2422,7 @@ msgstr "Without this module the application could not run correctly"
 
 #: app/modules/web/Controllers/InstallController.php:90
 msgid "Installation finished"
-msgstr "Installation finished"
+msgstr "Instalace byla dokončena"
 
 #: app/modules/web/Controllers/ItemPresetController.php:85
 msgid "Display Value"
@@ -2440,17 +2440,17 @@ msgstr "Values deleted"
 #: app/modules/web/Controllers/ItemPresetController.php:306
 #: app/modules/web/Controllers/ItemPresetController.php:310
 msgid "Value deleted"
-msgstr "Value deleted"
+msgstr "Hodnota byla smazána"
 
 #: app/modules/web/Controllers/ItemPresetController.php:342
 #: app/modules/web/Controllers/ItemPresetController.php:347
 msgid "Value created"
-msgstr "Value created"
+msgstr "Hodnota byla vytvořena"
 
 #: app/modules/web/Controllers/ItemPresetController.php:385
 #: app/modules/web/Controllers/ItemPresetController.php:390
 msgid "Value updated"
-msgstr "Value updated"
+msgstr "Hodnota byla aktualizována"
 
 #: app/modules/web/Controllers/ItemsController.php:140
 msgid "There aren't any pending notifications"
@@ -2471,7 +2471,7 @@ msgstr "Inactive time"
 
 #: app/modules/web/Controllers/LoginController.php:128
 msgid "Total time"
-msgstr "Total time"
+msgstr "Celkový čas"
 
 #: app/modules/web/Controllers/NotificationController.php:278
 #: app/modules/web/Controllers/NotificationController.php:281
@@ -2487,7 +2487,7 @@ msgstr "Notification deleted"
 #: app/modules/web/Controllers/NotificationController.php:329
 #: lib/SP/Providers/Notification/NotificationHandler.php:158
 msgid "Notification"
-msgstr "Notification"
+msgstr "Notifikace"
 
 #: app/modules/web/Controllers/NotificationController.php:328
 #: app/modules/web/Controllers/NotificationController.php:332
@@ -2497,40 +2497,40 @@ msgstr "Notification read"
 #: app/modules/web/Controllers/NotificationController.php:362
 #: app/modules/web/Controllers/NotificationController.php:365
 msgid "Notification created"
-msgstr "Notification created"
+msgstr "Notifikace byla vytvořena"
 
 #: app/modules/web/Controllers/NotificationController.php:399
 #: app/modules/web/Controllers/NotificationController.php:402
 msgid "Notification updated"
-msgstr "Notification updated"
+msgstr "Notifikace byla změněna"
 
 #: app/modules/web/Controllers/PluginController.php:214
 #: app/modules/web/Controllers/PluginController.php:217
 msgid "Plugin enabled"
-msgstr "Plugin enabled"
+msgstr "Plugin byl aktivován"
 
 #: app/modules/web/Controllers/PluginController.php:243
 #: app/modules/web/Controllers/PluginController.php:246
 #: lib/SP/Plugin/PluginManager.php:233 lib/SP/Plugin/PluginManager.php:441
 msgid "Plugin disabled"
-msgstr "Plugin disabled"
+msgstr "Plugin byl deaktivován"
 
 #: app/modules/web/Controllers/PluginController.php:273
 #: app/modules/web/Controllers/PluginController.php:276
 msgid "Plugin reset"
-msgstr "Plugin reset"
+msgstr "Reset pluginu"
 
 #: app/modules/web/Controllers/PluginController.php:307
 msgid "Plugins deleted"
-msgstr "Plugins deleted"
+msgstr "Pluginy byly odstraněny"
 
 #: app/modules/web/Controllers/PluginController.php:313
 msgid "Plugin deleted"
-msgstr "Plugin deleted"
+msgstr "Plugin byl odstraněn"
 
 #: app/modules/web/Controllers/PublicLinkController.php:124
 msgid "New Public Link"
-msgstr "New Public Link"
+msgstr "Nový veřejný odkaz"
 
 #: app/modules/web/Controllers/PublicLinkController.php:194
 #: lib/SP/Services/Upgrade/UpgradePublicLink.php:90
@@ -2544,7 +2544,7 @@ msgstr "Edit Public Link"
 #: app/modules/web/Controllers/PublicLinkController.php:261
 #: app/modules/web/Controllers/PublicLinkController.php:264
 msgid "Links deleted"
-msgstr "Links deleted"
+msgstr "Odkazy byly smazány"
 
 #: app/modules/web/Controllers/PublicLinkController.php:272
 #: app/modules/web/Controllers/PublicLinkController.php:276
@@ -2554,7 +2554,7 @@ msgstr "Link deleted"
 #: app/modules/web/Controllers/PublicLinkController.php:306
 #: app/modules/web/Controllers/PublicLinkController.php:345
 msgid "Link created"
-msgstr "Link created"
+msgstr "Odkaz byl vytvořen"
 
 #: app/modules/web/Controllers/StatusController.php:95
 msgid "Version unavailable"
@@ -2626,12 +2626,12 @@ msgstr "The updating need to be confirmed"
 
 #: app/modules/web/Controllers/UpgradeController.php:79
 msgid "Wrong security code"
-msgstr "Wrong security code"
+msgstr "Neplatný bezpečnostní kód"
 
 #: app/modules/web/Controllers/UpgradeController.php:105
 #: app/modules/web/themes/material-blue/views/login/index.inc:96
 msgid "Application successfully updated"
-msgstr "Application successfully updated"
+msgstr "Aplikace byla úspěšně aktualizována"
 
 #: app/modules/web/Controllers/UpgradeController.php:106
 msgid "You will be redirected to log in within 5 seconds"
@@ -2643,36 +2643,36 @@ msgstr "You will be redirected to log in within 5 seconds"
 #: lib/SP/Services/UserPassRecover/UserPassRecoverService.php:72
 #: app/modules/web/themes/material-blue/views/itemshow/user.inc:261
 msgid "Password Change"
-msgstr "Password Change"
+msgstr "Změna hesla"
 
 #: app/modules/web/Controllers/UserController.php:294
 #: app/modules/web/Controllers/UserController.php:298
 msgid "Users deleted"
-msgstr "Users deleted"
+msgstr "Uživatelé byli odstraněni"
 
 #: app/modules/web/Controllers/UserController.php:306
 #: app/modules/web/Controllers/UserController.php:311
 msgid "User deleted"
-msgstr "User deleted"
+msgstr "Uživatel byl odstraněn"
 
 #: app/modules/web/Controllers/UserController.php:345
 #: app/modules/web/Controllers/UserController.php:351
 msgid "User added"
-msgstr "User added"
+msgstr "Uživatel byl přidán"
 
 #: app/modules/web/Controllers/UserController.php:412
 #: app/modules/web/Controllers/UserController.php:419
 msgid "User updated"
-msgstr "User updated"
+msgstr "Uživatel byl změněn"
 
 #: app/modules/web/Controllers/UserController.php:488
 msgid "View User"
-msgstr "View User"
+msgstr "Zobrazit uživatele"
 
 #: app/modules/web/Controllers/UserGroupController.php:240
 #: app/modules/web/Controllers/UserGroupController.php:243
 msgid "Groups deleted"
-msgstr "Groups deleted"
+msgstr "Skupiny byly smazány"
 
 #: app/modules/web/Controllers/UserPassResetController.php:98
 msgid "Wrong data"
@@ -2692,7 +2692,7 @@ msgstr "Requested for"
 
 #: app/modules/web/Controllers/UserPassResetController.php:125
 msgid "Request sent"
-msgstr "Request sent"
+msgstr "Požadavek na změnu hesla byl odeslán"
 
 #: app/modules/web/Controllers/UserPassResetController.php:126
 msgid "You will receive an email to complete the request shortly."
@@ -2709,7 +2709,7 @@ msgstr "Attempts exceeded"
 #: app/modules/web/Forms/AuthTokenForm.php:101
 #: app/modules/web/Forms/UserForm.php:157
 msgid "Password cannot be blank"
-msgstr "Password cannot be blank"
+msgstr "Heslo nemůže být prázdné"
 
 #: app/modules/web/Controllers/UserProfileController.php:230
 #: app/modules/web/Controllers/UserProfileController.php:233
@@ -2733,7 +2733,7 @@ msgstr "Profile updated"
 
 #: app/modules/web/Controllers/UserProfileController.php:358
 msgid "View Profile"
-msgstr "View Profile"
+msgstr "Zobrazit profil"
 
 #: app/modules/web/Controllers/UserSettingsGeneralController.php:78
 msgid "Preferences updated"
@@ -2741,7 +2741,7 @@ msgstr "Preferences updated"
 
 #: app/modules/web/Controllers/UserSettingsManagerController.php:98
 msgid "Preferences"
-msgstr "Preferences"
+msgstr "Předvolby"
 
 #: app/modules/web/Forms/AccountForm.php:132
 msgid "A key is needed"
@@ -2855,11 +2855,11 @@ msgstr "A profile name is needed"
 #: app/modules/web/themes/material-blue/inc/Icons.php:31
 #: app/modules/web/themes/material-blue/views/itemshow/user_profile.inc:47
 msgid "Add"
-msgstr "Add"
+msgstr "Přidat"
 
 #: app/modules/web/themes/material-blue/inc/Icons.php:32
 msgid "View Details"
-msgstr "View Details"
+msgstr "Zobrazit podrobnosti"
 
 #: app/modules/web/themes/material-blue/inc/Icons.php:34
 #: app/modules/web/themes/material-blue/views/account/account-permissions.inc:76
@@ -2872,7 +2872,7 @@ msgstr "View Details"
 #: app/modules/web/themes/material-blue/views/itemshow/item_preset-permission.inc:97
 #: app/modules/web/themes/material-blue/views/itemshow/user_profile.inc:116
 msgid "Edit"
-msgstr "Edit"
+msgstr "Editovat"
 
 #: app/modules/web/themes/material-blue/inc/Icons.php:35
 #: app/modules/web/themes/material-blue/inc/Icons.php:65
@@ -2882,7 +2882,7 @@ msgstr "Edit"
 #: app/modules/web/themes/material-blue/views/itemshow/account_bulkedit.inc:235
 #: app/modules/web/themes/material-blue/views/itemshow/user_profile.inc:150
 msgid "Delete"
-msgstr "Delete"
+msgstr "Smazat"
 
 #: app/modules/web/themes/material-blue/inc/Icons.php:36
 msgid "Change Password"
@@ -2900,27 +2900,27 @@ msgstr "Accounts Admin"
 
 #: app/modules/web/themes/material-blue/inc/Icons.php:39
 msgid "LDAP User"
-msgstr "LDAP User"
+msgstr "LDAP Uživatel"
 
 #: app/modules/web/themes/material-blue/inc/Icons.php:40
 #: app/modules/web/themes/material-blue/views/config/mail.inc:159
 #: app/modules/web/themes/material-blue/views/itemshow/user.inc:280
 msgid "Disabled"
-msgstr "Disabled"
+msgstr "Deaktivováno"
 
 #: app/modules/web/themes/material-blue/inc/Icons.php:41
 msgid "Enabled"
-msgstr "Enabled"
+msgstr "Aktivováno"
 
 #: app/modules/web/themes/material-blue/inc/Icons.php:42
 #: app/modules/web/themes/material-blue/views/main/upgrade.inc:198
 #: app/modules/web/themes/material-blue/views/upgrade/index.inc:58
 msgid "Update"
-msgstr "Update"
+msgstr "Aktualizovat"
 
 #: app/modules/web/themes/material-blue/inc/Icons.php:43
 msgid "Copy"
-msgstr "Copy"
+msgstr "Kopírovat"
 
 #: app/modules/web/themes/material-blue/inc/Icons.php:45
 #: app/modules/web/themes/material-blue/views/itemshow/user.inc:97
@@ -2941,19 +2941,19 @@ msgstr "Zrušit filtry"
 
 #: app/modules/web/themes/material-blue/inc/Icons.php:53
 msgid "Perform"
-msgstr "Perform"
+msgstr "Začít"
 
 #: app/modules/web/themes/material-blue/inc/Icons.php:54
 msgid "Download"
-msgstr "Download"
+msgstr "Stáhnout"
 
 #: app/modules/web/themes/material-blue/inc/Icons.php:55
 msgid "Warning"
-msgstr "Warning"
+msgstr "Upozornění"
 
 #: app/modules/web/themes/material-blue/inc/Icons.php:56
 msgid "Check"
-msgstr "Check"
+msgstr "Zkontrolovat"
 
 #: app/modules/web/themes/material-blue/inc/Icons.php:63
 msgid "Critical"
@@ -2961,19 +2961,19 @@ msgstr "Critical"
 
 #: app/modules/web/themes/material-blue/inc/Icons.php:66
 msgid "Previous page"
-msgstr "Previous page"
+msgstr "Předchozí stránka"
 
 #: app/modules/web/themes/material-blue/inc/Icons.php:67
 msgid "Next page"
-msgstr "Next page"
+msgstr "Další stránka"
 
 #: app/modules/web/themes/material-blue/inc/Icons.php:68
 msgid "First page"
-msgstr "First page"
+msgstr "První stránka"
 
 #: app/modules/web/themes/material-blue/inc/Icons.php:69
 msgid "Last page"
-msgstr "Last page"
+msgstr "Poslední stránka"
 
 #: lib/SP/Bootstrap.php:293
 #, php-format
@@ -3007,11 +3007,11 @@ msgstr "N/A"
 
 #: lib/SP/Core/Acl/Acl.php:299
 msgid "Access denied"
-msgstr "Access denied"
+msgstr "Přístup byl odepřen"
 
 #: lib/SP/Core/Acl/Actions.php:177
 msgid "Action not found"
-msgstr "Action not found"
+msgstr "Akce nebyla nalezena"
 
 #: lib/SP/Core/Acl/UnauthorizedPageException.php:46
 #: lib/SP/Util/ErrorUtil.php:157
@@ -3068,7 +3068,7 @@ msgstr "Unable to retrieve \"%s\" template: %s"
 #: lib/SP/Http/Address.php:68 lib/SP/Http/Address.php:70
 #: lib/SP/Http/Address.php:90 lib/SP/Http/Address.php:109
 msgid "Invalid IP"
-msgstr "Invalid IP"
+msgstr "Neplatná IP Adresa"
 
 #: lib/SP/Http/Json.php:180
 msgid "Encoding error"
@@ -3163,7 +3163,7 @@ msgstr "Plugin loaded"
 
 #: lib/SP/Plugin/PluginManager.php:366
 msgid "New Plugin"
-msgstr "New Plugin"
+msgstr "Nový plugin"
 
 #: lib/SP/Plugin/PluginManager.php:394
 msgid "Upgrading plugin"
@@ -3228,7 +3228,7 @@ msgstr "Server"
 #: lib/SP/Providers/Auth/Ldap/LdapConnection.php:174
 #: lib/SP/Providers/Auth/Ldap/LdapConnection.php:176
 msgid "LDAP parameters are not set"
-msgstr "LDAP parameters are not set"
+msgstr "LDAP parametry nejsou nastaveny"
 
 #: lib/SP/Providers/Auth/Ldap/LdapConnection.php:256
 #: lib/SP/Providers/Auth/Ldap/LdapConnection.php:262
@@ -3256,7 +3256,7 @@ msgstr "User does not belong to the group"
 #: lib/SP/Providers/Mail/MailHandler.php:153
 #, php-format
 msgid "Event: %s"
-msgstr "Event: %s"
+msgstr "Akce: %s"
 
 #: lib/SP/Providers/Mail/MailHandler.php:161
 #: lib/SP/Providers/Mail/MailHandler.php:163
@@ -3267,7 +3267,7 @@ msgstr "Performed by: %s (%s)"
 #: lib/SP/Providers/Mail/MailHandler.php:166
 #, php-format
 msgid "IP Address: %s"
-msgstr "IP Address: %s"
+msgstr "IP Adresy: %s"
 
 #: lib/SP/Providers/Mail/MailProvider.php:94
 msgid "Unable to initialize"
@@ -3748,7 +3748,7 @@ msgstr "Error while updating the account's password"
 
 #: lib/SP/Services/Account/AccountCryptService.php:199
 msgid "Errors"
-msgstr "Errors"
+msgstr "Chyby"
 
 #: lib/SP/Services/Account/AccountCryptService.php:217
 #: lib/SP/Services/Account/AccountCryptService.php:224
@@ -3761,16 +3761,16 @@ msgstr "Error while updating the accounts' passwords in history"
 
 #: lib/SP/Services/Account/AccountFileService.php:168
 msgid "File not found"
-msgstr "File not found"
+msgstr "Soubor nenalezen"
 
 #: lib/SP/Services/Account/AccountService.php:170
 #: lib/SP/Services/Account/AccountService.php:630
 msgid "Account not found"
-msgstr "Account not found"
+msgstr "Účet nenalezen"
 
 #: lib/SP/Services/Account/AccountService.php:240
 msgid "Master password not set"
-msgstr "Master password not set"
+msgstr "Hlavní heslo nebylo nastaveno"
 
 #: lib/SP/Services/Account/AccountService.php:303
 #: lib/SP/Services/Account/AccountService.php:703
@@ -3799,12 +3799,12 @@ msgstr "Wrong parameters"
 #: lib/SP/Services/Auth/LoginService.php:675
 #: lib/SP/Services/Auth/LoginService.php:683
 msgid "Wrong login"
-msgstr "Wrong login"
+msgstr "Neplatné uživatelské jméno nebo heslo"
 
 #: lib/SP/Services/Auth/LoginService.php:237
 #: lib/SP/Services/Auth/LoginService.php:244
 msgid "User disabled"
-msgstr "User disabled"
+msgstr "Uživatel je deaktivován"
 
 #: lib/SP/Services/Auth/LoginService.php:296
 msgid "Using temporary password"
@@ -3815,7 +3815,7 @@ msgstr "Using temporary password"
 #: lib/SP/Services/Auth/LoginService.php:335
 #: lib/SP/Services/Auth/LoginService.php:341
 msgid "Wrong master password"
-msgstr "Wrong master password"
+msgstr "Neplatné hlavní heslo"
 
 #: lib/SP/Services/Auth/LoginService.php:357
 msgid "Your previous password is needed"
@@ -3843,13 +3843,13 @@ msgstr "User has no associated groups"
 #: lib/SP/Services/Auth/LoginService.php:665
 #: app/modules/web/themes/material-blue/views/config/general-auth.inc:18
 msgid "Authentication"
-msgstr "Authentication"
+msgstr "Autentikace"
 
 #: lib/SP/Services/AuthToken/AuthTokenService.php:146
 #: lib/SP/Services/AuthToken/AuthTokenService.php:284
 #: lib/SP/Services/AuthToken/AuthTokenService.php:298
 msgid "Token not found"
-msgstr "Token not found"
+msgstr "Token nenalezen"
 
 #: lib/SP/Services/AuthToken/AuthTokenService.php:165
 msgid "Error while removing the tokens"
@@ -3857,7 +3857,7 @@ msgstr "Error while removing the tokens"
 
 #: lib/SP/Services/Backup/FileBackupService.php:108
 msgid "Make Backup"
-msgstr "Make Backup"
+msgstr "Provést zálohu"
 
 #: lib/SP/Services/Backup/FileBackupService.php:115
 msgid "Error while doing the backup in compatibility mode"
@@ -3893,7 +3893,7 @@ msgstr "This operation is only available on Linux environments"
 #: lib/SP/Services/Category/CategoryService.php:102
 #: lib/SP/Services/Category/CategoryService.php:119
 msgid "Category not found"
-msgstr "Category not found"
+msgstr "Kategorie nenalezena"
 
 #: lib/SP/Services/Category/CategoryService.php:138
 msgid "Error while deleting categories"
@@ -3914,11 +3914,11 @@ msgstr "Unable to restore the configuration"
 #: lib/SP/Services/Config/ConfigService.php:156
 #, php-format
 msgid "Parameter not found (%s)"
-msgstr "Parameter not found (%s)"
+msgstr "Parametr nenalezen (%s)"
 
 #: lib/SP/Services/Crypt/TemporaryMasterPassService.php:109
 msgid "Generate temporary password"
-msgstr "Generate temporary password"
+msgstr "Vygenerovat dočasné heslo"
 
 #: lib/SP/Services/Crypt/TemporaryMasterPassService.php:116
 msgid "Error while generating the temporary password"
@@ -3972,11 +3972,11 @@ msgstr "Updating encrypted data"
 
 #: lib/SP/Services/CustomField/CustomFieldCryptService.php:114
 msgid "Records updated"
-msgstr "Records updated"
+msgstr "Záznamy byly aktualizovány"
 
 #: lib/SP/Services/CustomField/CustomFieldCryptService.php:115
 msgid "Records not updated"
-msgstr "Records not updated"
+msgstr "Záznamy nebyly aktualizovány"
 
 #: lib/SP/Services/CustomField/CustomFieldCryptService.php:141
 msgid "Error while updating the custom fields data"
@@ -3984,7 +3984,7 @@ msgstr "Error while updating the custom fields data"
 
 #: lib/SP/Services/CustomField/CustomFieldDefService.php:114
 msgid "Field not found"
-msgstr "Field not found"
+msgstr "Pole nenalezeno"
 
 #: lib/SP/Services/CustomField/CustomFieldDefService.php:135
 msgid "Error while deleting the fields"
@@ -4074,7 +4074,7 @@ msgstr "Error while processing line"
 
 #: lib/SP/Services/Import/FileImport.php:83
 msgid "File successfully uploaded"
-msgstr "File successfully uploaded"
+msgstr "Soubor úspěšně nahrán"
 
 #: lib/SP/Services/Import/FileImport.php:85
 msgid "Please check the web server user permissions"
@@ -4321,7 +4321,7 @@ msgstr "Please, try the installation again"
 #: lib/SP/Services/ItemPreset/ItemPresetService.php:86
 #: lib/SP/Services/ItemPreset/ItemPresetService.php:107
 msgid "Value not found"
-msgstr "Value not found"
+msgstr "Hodnota nenalezena"
 
 #: lib/SP/Services/ItemPreset/ItemPresetService.php:190
 msgid "Error while deleting the values"
@@ -4372,7 +4372,7 @@ msgstr ""
 #: lib/SP/Services/Plugin/PluginService.php:260
 #: lib/SP/Services/Plugin/PluginService.php:277
 msgid "Plugin not found"
-msgstr "Plugin not found"
+msgstr "Plugin nebyl nalezen"
 
 #: lib/SP/Services/PublicLink/PublicLinkService.php:129
 #: lib/SP/Services/PublicLink/PublicLinkService.php:152
@@ -4381,7 +4381,7 @@ msgstr "Plugin not found"
 #: lib/SP/Services/PublicLink/PublicLinkService.php:339
 #: lib/SP/Services/PublicLink/PublicLinkService.php:360
 msgid "Link not found"
-msgstr "Link not found"
+msgstr "Odkaz nebyl nalezen"
 
 #: lib/SP/Services/PublicLink/PublicLinkService.php:245
 msgid "Error while removing the links"
@@ -4433,7 +4433,7 @@ msgstr "Attempts exceeded (%d/%d)"
 
 #: lib/SP/Services/Track/TrackService.php:170
 msgid "Seconds"
-msgstr "Seconds"
+msgstr "Sekund"
 
 #: lib/SP/Services/Track/TrackService.php:215
 msgid "IP address not set"
@@ -4442,7 +4442,7 @@ msgstr "IP address not set"
 #: lib/SP/Services/Upgrade/UpgradeAppService.php:72
 #: lib/SP/Services/Upgrade/UpgradeAppService.php:95
 msgid "Update Application"
-msgstr "Update Application"
+msgstr "Aktualizace aplikace"
 
 #: lib/SP/Services/Upgrade/UpgradeAppService.php:79
 msgid "Error while applying the application update"
@@ -4469,7 +4469,7 @@ msgstr "Update Configuration"
 
 #: lib/SP/Services/Upgrade/UpgradeConfigService.php:93
 msgid "Parameter"
-msgstr "Parameter"
+msgstr "Parametr"
 
 #: lib/SP/Services/Upgrade/UpgradeConfigService.php:132
 #: lib/SP/Services/Upgrade/UpgradeConfigService.php:136
@@ -4482,16 +4482,16 @@ msgstr "MIME type set for this extension"
 
 #: lib/SP/Services/Upgrade/UpgradeConfigService.php:288
 msgid "MIME type"
-msgstr "MIME type"
+msgstr "MIME typ"
 
 #: lib/SP/Services/Upgrade/UpgradeConfigService.php:289
 #: lib/SP/Services/Upgrade/UpgradeConfigService.php:298
 msgid "Extension"
-msgstr "Extension"
+msgstr "Přípona"
 
 #: lib/SP/Services/Upgrade/UpgradeConfigService.php:297
 msgid "MIME type not found for this extension"
-msgstr "MIME type not found for this extension"
+msgstr "Pro tuto příponu nebyl nalezen správný MIME typ"
 
 #: lib/SP/Services/Upgrade/UpgradeCustomFieldData.php:58
 #: lib/SP/Services/Upgrade/UpgradeCustomFieldData.php:89
@@ -5393,14 +5393,14 @@ msgstr ""
 #: app/modules/web/themes/material-blue/views/login/index.inc:62
 #: app/modules/web/themes/material-blue/views/login/index.inc:110
 msgid "Master Password"
-msgstr "Master Password"
+msgstr "Hlavní heslo"
 
 #: app/modules/web/themes/material-blue/views/config/encryption.inc:31
 #: app/modules/web/themes/material-blue/views/config/encryption.inc:34
 #: app/modules/web/themes/material-blue/views/config/encryption.inc:219
 #: app/modules/web/themes/material-blue/views/config/encryption.inc:222
 msgid "Last change"
-msgstr "Last change"
+msgstr "Poslední změna"
 
 #: app/modules/web/themes/material-blue/views/config/encryption.inc:42
 #: app/modules/web/themes/material-blue/views/config/encryption.inc:51
@@ -5411,12 +5411,12 @@ msgstr "Current Master Password"
 #: app/modules/web/themes/material-blue/views/config/encryption.inc:57
 #: app/modules/web/themes/material-blue/views/config/encryption.inc:66
 msgid "New Master Password"
-msgstr "New Master Password"
+msgstr "Nové hlavní heslo"
 
 #: app/modules/web/themes/material-blue/views/config/encryption.inc:72
 #: app/modules/web/themes/material-blue/views/config/encryption.inc:81
 msgid "New Master Password (repeat)"
-msgstr "New Master Password (repeat)"
+msgstr "Nové hlavní heslo znovu"
 
 #: app/modules/web/themes/material-blue/views/config/encryption.inc:96
 msgid "You should save the new password on a secure place"
@@ -5447,7 +5447,7 @@ msgstr "Sets a new Master Password without re-encrypting the accounts."
 
 #: app/modules/web/themes/material-blue/views/config/encryption.inc:145
 msgid "Confirm change"
-msgstr "Confirm change"
+msgstr "Potvrdit změnu"
 
 #: app/modules/web/themes/material-blue/views/config/encryption.inc:147
 msgid ""
@@ -5486,7 +5486,7 @@ msgstr "Update master password hash"
 #: app/modules/web/themes/material-blue/views/config/encryption.inc:209
 #: app/modules/web/themes/material-blue/views/config/encryption.inc:349
 msgid "Temporary Password"
-msgstr "Temporary Password"
+msgstr "Dočasné heslo"
 
 #: app/modules/web/themes/material-blue/views/config/encryption.inc:224
 #: app/modules/web/themes/material-blue/views/config/encryption.inc:239
@@ -6898,6 +6898,21 @@ msgstr "Položky a přizpůsobení"
 msgid "Users and Accesses"
 msgstr "Uživatelé a oprávnění"
 
+msgid "Generate random password"
+msgstr "Generovat náhodné heslo"
+
+msgid "Complexity"
+msgstr "Složitost"
+
+msgid "Show Password"
+msgstr "Zobrazit heslo"
+
+msgid "Password Copied into Clipboard"
+msgstr "Heslo bylo zkopírováno do schránky"
+
+msgid "Security and Audit"
+msgstr "Audit zabezpečení"
+
 #~ msgid "\"/config\" directory does not exist."
 #~ msgstr "\"/config\" directory does not exist."
 
@@ -6967,29 +6982,17 @@ msgstr "Uživatelé a oprávnění"
 #~ msgid "Password options"
 #~ msgstr "Password options"
 
-#~ msgid "Generate random password"
-#~ msgstr "Generate random password"
-
-#~ msgid "Complexity"
-#~ msgstr "Complexity"
-
 #~ msgid "Reset"
 #~ msgstr "Reset"
 
 #~ msgid "Password strength level"
 #~ msgstr "Password strength level"
 
-#~ msgid "Show Password"
-#~ msgstr "Show Password"
-
 #~ msgid "Accept"
 #~ msgstr "Accept"
 
 #~ msgid "Cancel"
 #~ msgstr "Cancel"
-
-#~ msgid "Password Copied into Clipboard"
-#~ msgstr "Password Copied into Clipboard"
 
 #~ msgid "Error while copying to clipboard"
 #~ msgstr "Error while copying to clipboard"
@@ -7069,9 +7072,6 @@ msgstr "Uživatelé a oprávnění"
 
 #~ msgid "Plugins Management"
 #~ msgstr "Plugins Management"
-
-#~ msgid "Security and Audit"
-#~ msgstr "Security and Audit"
 
 #~ msgid "Users Management"
 #~ msgstr "Users Management"
