@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: sysPass\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-04-29 01:28+0200\n"
-"PO-Revision-Date: 2019-10-17 11:25+0200\n"
+"PO-Revision-Date: 2019-10-17 11:31+0200\n"
 "Last-Translator: nuxsmin <nuxsmin@syspass.org>\n"
 "Language-Team: nuxsmin@syspass.org\n"
 "Language: cs_CZ\n"
@@ -636,7 +636,7 @@ msgstr "Edit Account"
 #: app/modules/web/Controllers/Helpers/Grid/AccountHistoryGrid.php:177
 #: app/modules/web/Controllers/Helpers/Grid/AccountHistoryGrid.php:178
 msgid "Remove Account"
-msgstr "Remove Account"
+msgstr "Odstranit účet"
 
 #: app/modules/web/Controllers/AccountController.php:515
 #: app/modules/web/Controllers/Helpers/Account/AccountActionsHelper.php:155
