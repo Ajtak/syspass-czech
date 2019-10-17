@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: sysPass\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-04-29 01:28+0200\n"
-"PO-Revision-Date: 2019-10-17 11:11+0200\n"
+"PO-Revision-Date: 2019-10-17 11:25+0200\n"
 "Last-Translator: nuxsmin <nuxsmin@syspass.org>\n"
 "Language-Team: nuxsmin@syspass.org\n"
 "Language: cs_CZ\n"
@@ -375,7 +375,7 @@ msgstr "Soukromý účet"
 #: app/modules/web/themes/material-blue/views/account/account-permissions.inc:246
 #: app/modules/web/themes/material-blue/views/itemshow/item_preset-private.inc:55
 msgid "Private Account for Group"
-msgstr "Private Account for Group"
+msgstr "Soukromý účet pro skupinu"
 
 #: app/modules/api/Controllers/Help/AccountHelp.php:92
 #: app/modules/api/Controllers/Help/AccountHelp.php:115
@@ -582,7 +582,7 @@ msgstr "Link viewed"
 #: app/modules/web/themes/material-blue/views/itemshow/public_link.inc:29
 #: app/modules/web/themes/material-blue/views/itemshow/public_link.inc:31
 msgid "Account"
-msgstr "Account"
+msgstr "Účet"
 
 #: app/modules/web/Controllers/AccountController.php:265
 msgid "Agent"
@@ -619,7 +619,7 @@ msgstr "Link"
 #: app/modules/web/Controllers/AccountController.php:353
 #: app/modules/web/Controllers/Helpers/LayoutHelper.php:276
 msgid "New Account"
-msgstr "New Account"
+msgstr "Nový účet"
 
 #: app/modules/web/Controllers/AccountController.php:407
 #: app/modules/web/Controllers/Helpers/Account/AccountActionsHelper.php:176
@@ -2149,7 +2149,7 @@ msgstr "Delete Notification"
 #: app/modules/web/Controllers/Helpers/LayoutHelper.php:332
 #: app/modules/web/themes/material-blue/views/plugin/index.inc:3
 msgid "Plugins"
-msgstr "Plugins"
+msgstr "Pluginy"
 
 #: app/modules/web/Controllers/Helpers/Grid/PluginGrid.php:108
 #: lib/SP/Plugin/PluginManager.php:208 lib/SP/Plugin/PluginManager.php:264
@@ -2410,7 +2410,7 @@ msgstr "Vyhledávání"
 #: app/modules/web/themes/material-blue/views/config/ldap.inc:31
 #: app/modules/web/themes/material-blue/views/itemshow/user_profile.inc:37
 msgid "Configuration"
-msgstr "Configuration"
+msgstr "Konfigurace"
 
 #: app/modules/web/Controllers/InstallController.php:60
 msgid "Module unavailable"
@@ -4507,7 +4507,7 @@ msgstr "Custom fields update"
 #: lib/SP/Services/Upgrade/UpgradeDatabaseService.php:95
 #: lib/SP/Services/Upgrade/UpgradeDatabaseService.php:126
 msgid "Update DB"
-msgstr "Update DB"
+msgstr "Aktualizace DB"
 
 #: lib/SP/Services/Upgrade/UpgradeDatabaseService.php:102
 msgid "Error while applying an auxiliary update"
@@ -4547,14 +4547,14 @@ msgstr "User does not exist"
 
 #: lib/SP/Services/User/UserService.php:195
 msgid "User not found"
-msgstr "User not found"
+msgstr "Účet nenalezen"
 
 #: lib/SP/Services/UserGroup/UserGroupService.php:85
 #: lib/SP/Services/UserGroup/UserGroupService.php:103
 #: lib/SP/Services/UserGroup/UserGroupService.php:192
 #: lib/SP/Services/UserGroup/UserToUserGroupService.php:61
 msgid "Group not found"
-msgstr "Group not found"
+msgstr "Skupina nenalezena"
 
 #: lib/SP/Services/UserGroup/UserGroupService.php:120
 msgid "Error while deleting the groups"
@@ -4708,14 +4708,14 @@ msgstr "Javascript is needed in order to run correctly"
 #: app/modules/web/themes/material-blue/views/_partials/fixed-header.inc:80
 #: app/modules/web/themes/material-blue/views/_partials/fixed-header.inc:141
 msgid "User preferences"
-msgstr "User preferences"
+msgstr "Nastavení účtu"
 
 #: app/modules/web/themes/material-blue/views/_partials/fixed-header.inc:84
 #: app/modules/web/themes/material-blue/views/_partials/fixed-header.inc:87
 #: app/modules/web/themes/material-blue/views/_partials/fixed-header.inc:163
 #: app/modules/web/themes/material-blue/views/_partials/fixed-header.inc:166
 msgid "Sign Out"
-msgstr "Sign Out"
+msgstr "Odhlásit se"
 
 #: app/modules/web/themes/material-blue/views/_partials/fixed-header.inc:179
 #: app/modules/web/themes/material-blue/views/_partials/footer.inc:60
@@ -6892,6 +6892,12 @@ msgstr "Search results of '%s'"
 msgid "Page"
 msgstr "Page"
 
+msgid "Items and Customizations"
+msgstr "Položky a přizpůsobení"
+
+msgid "Users and Accesses"
+msgstr "Uživatelé a oprávnění"
+
 #~ msgid "\"/config\" directory does not exist."
 #~ msgstr "\"/config\" directory does not exist."
 
@@ -7040,9 +7046,6 @@ msgstr "Page"
 #~ msgid "Favorites"
 #~ msgstr "Favorites"
 
-#~ msgid "Items and Customizations"
-#~ msgstr "Items and Customizations"
-
 #~ msgid "Categories Management"
 #~ msgstr "Categories Management"
 
@@ -7066,9 +7069,6 @@ msgstr "Page"
 
 #~ msgid "Plugins Management"
 #~ msgstr "Plugins Management"
-
-#~ msgid "Users and Accesses"
-#~ msgstr "Users and Accesses"
 
 #~ msgid "Security and Audit"
 #~ msgstr "Security and Audit"
