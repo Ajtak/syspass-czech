@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: sysPass\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-04-29 01:28+0200\n"
-"PO-Revision-Date: 2019-10-17 11:31+0200\n"
+"PO-Revision-Date: 2019-10-17 11:33+0200\n"
 "Last-Translator: nuxsmin <nuxsmin@syspass.org>\n"
 "Language-Team: nuxsmin@syspass.org\n"
 "Language: cs_CZ\n"
@@ -6680,7 +6680,7 @@ msgstr "Sign in"
 
 #: app/modules/web/themes/material-blue/views/login/index.inc:89
 msgid "Forgot password?"
-msgstr "Forgot password?"
+msgstr "Zapomenuté heslo"
 
 #: app/modules/web/themes/material-blue/views/main/update.inc:42
 msgid "Updated"
