@@ -3,9 +3,9 @@ msgstr ""
 "Project-Id-Version: sysPass\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-04-29 01:28+0200\n"
-"PO-Revision-Date: 2019-10-17 14:45+0200\n"
-"Last-Translator: nuxsmin <nuxsmin@syspass.org>\n"
-"Language-Team: nuxsmin@syspass.org\n"
+"PO-Revision-Date: 2019-10-17 15:29+0200\n"
+"Last-Translator: Jakub Fridrich<jakub.fridrich@klikpojisteni.cz>\n"
+"Language-Team: jakub.fridrich@klikpojisteni.cz\n"
 "Language: cs_CZ\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -22,7 +22,7 @@ msgstr ""
 
 #: app/modules/api/Controllers/AccountController.php:74
 msgid "Account displayed"
-msgstr "Account displayed"
+msgstr "Účet byl zobrazen"
 
 #: app/modules/api/Controllers/AccountController.php:75
 #: app/modules/api/Controllers/AccountController.php:107
@@ -153,7 +153,7 @@ msgstr "Account created"
 #: app/modules/web/Controllers/AccountController.php:891
 #: app/modules/web/Controllers/AccountController.php:902
 msgid "Account updated"
-msgstr "Account updated"
+msgstr "Účet byl aktualizován"
 
 #: app/modules/api/Controllers/AccountController.php:318
 #: app/modules/api/Controllers/AccountController.php:324
@@ -164,36 +164,36 @@ msgstr "Account updated"
 #: app/modules/web/Controllers/AccountManagerController.php:156
 #: app/modules/web/Controllers/AccountManagerController.php:161
 msgid "Account removed"
-msgstr "Account removed"
+msgstr "Účet byl odstraněn"
 
 #: app/modules/api/Controllers/CategoryController.php:66
 msgid "Category displayed"
-msgstr "Category displayed"
+msgstr "Kategorie se zobrazuje"
 
 #: app/modules/api/Controllers/CategoryController.php:95
 #: app/modules/api/Controllers/CategoryController.php:100
 #: app/modules/web/Controllers/CategoryController.php:280
 #: app/modules/web/Controllers/CategoryController.php:284
 msgid "Category added"
-msgstr "Category added"
+msgstr "Kategorie byla přidána"
 
 #: app/modules/api/Controllers/CategoryController.php:125
 #: app/modules/api/Controllers/CategoryController.php:130
 #: app/modules/web/Controllers/CategoryController.php:324
 #: app/modules/web/Controllers/CategoryController.php:328
 msgid "Category updated"
-msgstr "Category updated"
+msgstr "Kategorie byla změněna"
 
 #: app/modules/api/Controllers/CategoryController.php:154
 #: app/modules/api/Controllers/CategoryController.php:159
 #: app/modules/web/Controllers/CategoryController.php:242
 #: app/modules/web/Controllers/CategoryController.php:246
 msgid "Category deleted"
-msgstr "Category deleted"
+msgstr "Kategorie byla smazána"
 
 #: app/modules/api/Controllers/ClientController.php:67
 msgid "Client displayed"
-msgstr "Client displayed"
+msgstr "Klient byl zobrazen"
 
 #: app/modules/api/Controllers/ClientController.php:97
 #: app/modules/api/Controllers/ClientController.php:102
@@ -201,21 +201,21 @@ msgstr "Client displayed"
 #: app/modules/web/Controllers/ClientController.php:279
 #: lib/SP/Services/Import/KeepassImport.php:79
 msgid "Client added"
-msgstr "Client added"
+msgstr "Klient byl přidán"
 
 #: app/modules/api/Controllers/ClientController.php:128
 #: app/modules/api/Controllers/ClientController.php:133
 #: app/modules/web/Controllers/ClientController.php:315
 #: app/modules/web/Controllers/ClientController.php:319
 msgid "Client updated"
-msgstr "Client updated"
+msgstr "Klient byl aktualizován"
 
 #: app/modules/api/Controllers/ClientController.php:157
 #: app/modules/api/Controllers/ClientController.php:162
 #: app/modules/web/Controllers/ClientController.php:239
 #: app/modules/web/Controllers/ClientController.php:243
 msgid "Client deleted"
-msgstr "Client deleted"
+msgstr "Klient byl smazán"
 
 #: app/modules/api/Controllers/ConfigController.php:59
 #: app/modules/web/Controllers/ConfigBackupController.php:70
@@ -227,12 +227,12 @@ msgstr "Application and database backup completed successfully"
 #: app/modules/api/Controllers/Help/ConfigHelp.php:43
 #: app/modules/api/Controllers/Help/ConfigHelp.php:54
 msgid "Path"
-msgstr "Path"
+msgstr "Cesta"
 
 #: app/modules/api/Controllers/ConfigController.php:63
 #: app/modules/web/Controllers/ConfigBackupController.php:73
 msgid "Backup process finished"
-msgstr "Backup process finished"
+msgstr "Zálohování bylo dokončeno"
 
 #: app/modules/api/Controllers/ConfigController.php:84
 #: app/modules/web/Controllers/ConfigBackupController.php:98
@@ -244,7 +244,7 @@ msgstr "sysPass XML export"
 #: app/modules/web/Controllers/ConfigBackupController.php:108
 #: app/modules/web/Controllers/ConfigBackupController.php:136
 msgid "Export process finished"
-msgstr "Export process finished"
+msgstr "Export byl dokončen"
 
 #: app/modules/api/Controllers/ControllerBase.php:150
 #: lib/SP/Services/Api/ApiService.php:189
@@ -257,7 +257,7 @@ msgstr "Unauthorized access"
 #: app/modules/api/Controllers/Help/AccountHelp.php:105
 #: app/modules/api/Controllers/Help/AccountHelp.php:144
 msgid "Account Id"
-msgstr "Account Id"
+msgstr "ID účtu"
 
 #: app/modules/api/Controllers/Help/AccountHelp.php:55
 #: app/modules/api/Controllers/Help/AccountHelp.php:68
@@ -338,7 +338,7 @@ msgstr "ID Kategorie"
 #: app/modules/api/Controllers/Help/ClientHelp.php:67
 #: app/modules/api/Controllers/Help/ClientHelp.php:93
 msgid "Client Id"
-msgstr "Client Id"
+msgstr "ID Klienta"
 
 #: app/modules/api/Controllers/Help/AccountHelp.php:86
 #: app/modules/api/Controllers/Help/AccountHelp.php:109
@@ -501,7 +501,7 @@ msgstr "Tag displayed"
 #: app/modules/api/Controllers/TagController.php:98
 #: app/modules/web/Controllers/TagController.php:259
 msgid "Tag added"
-msgstr "Tag added"
+msgstr "Štítek byl přidán"
 
 #: app/modules/api/Controllers/TagController.php:122
 #: app/modules/api/Controllers/TagController.php:127
@@ -513,11 +513,11 @@ msgstr "Štítek byl aktualizován"
 #: app/modules/api/Controllers/TagController.php:156
 #: app/modules/web/Controllers/TagController.php:229
 msgid "Tag removed"
-msgstr "Tag removed"
+msgstr "Štítek byl odstraněn"
 
 #: app/modules/api/Controllers/UserGroupController.php:65
 msgid "Group viewed"
-msgstr "Group viewed"
+msgstr "Skupina byla zobrazena"
 
 #: app/modules/api/Controllers/UserGroupController.php:95
 #: app/modules/api/Controllers/UserGroupController.php:100
@@ -531,18 +531,18 @@ msgstr "Skupina byla přidána"
 #: app/modules/web/Controllers/UserGroupController.php:333
 #: app/modules/web/Controllers/UserGroupController.php:338
 msgid "Group updated"
-msgstr "Group updated"
+msgstr "Skupina byla aktualizována"
 
 #: app/modules/api/Controllers/UserGroupController.php:156
 #: app/modules/api/Controllers/UserGroupController.php:162
 #: app/modules/web/Controllers/UserGroupController.php:251
 #: app/modules/web/Controllers/UserGroupController.php:256
 msgid "Group deleted"
-msgstr "Group deleted"
+msgstr "Skupina byla odstraněna"
 
 #: app/modules/api/Init.php:156
 msgid "Updating needed"
-msgstr "Updating needed"
+msgstr "Je vyžadována aktualizace"
 
 #: app/modules/web/Controllers/AccountController.php:169
 #: app/modules/web/Controllers/AccountController.php:236
@@ -558,7 +558,7 @@ msgstr "Detail účtu"
 
 #: app/modules/web/Controllers/AccountController.php:262
 msgid "Link viewed"
-msgstr "Link viewed"
+msgstr "Odkaz byl zobrazen"
 
 #: app/modules/web/Controllers/AccountController.php:263
 #: app/modules/web/Controllers/AccountController.php:668
@@ -596,12 +596,12 @@ msgstr "HTTPS"
 #: app/modules/web/Controllers/Helpers/Grid/PublicLinkGrid.php:133
 #: lib/SP/Providers/Auth/Ldap/LdapConnection.php:215
 msgid "ON"
-msgstr "ON"
+msgstr "Zapnuto"
 
 #: app/modules/web/Controllers/AccountController.php:266
 #: app/modules/web/Controllers/Helpers/Grid/PublicLinkGrid.php:133
 msgid "OFF"
-msgstr "OFF"
+msgstr "Vypnuto"
 
 #: app/modules/web/Controllers/AccountController.php:267
 #: app/modules/web/Controllers/Helpers/Grid/EventlogGrid.php:104
@@ -613,7 +613,7 @@ msgstr "IP"
 #: app/modules/web/Controllers/PublicLinkController.php:273
 #: lib/SP/Services/Upgrade/UpgradePublicLink.php:91
 msgid "Link"
-msgstr "Link"
+msgstr "Odkaz"
 
 #: app/modules/web/Controllers/AccountController.php:301
 #: app/modules/web/Controllers/AccountController.php:353
@@ -626,7 +626,7 @@ msgstr "Nový účet"
 #: app/modules/web/Controllers/Helpers/Account/AccountActionsHelper.php:177
 #: app/modules/web/themes/material-blue/views/account/linkedAccounts.inc:24
 msgid "Edit Account"
-msgstr "Edit Account"
+msgstr "Editovat účet"
 
 #: app/modules/web/Controllers/AccountController.php:462
 #: app/modules/web/Controllers/Helpers/Account/AccountActionsHelper.php:334
@@ -642,19 +642,19 @@ msgstr "Odstranit účet"
 #: app/modules/web/Controllers/Helpers/Account/AccountActionsHelper.php:155
 #: app/modules/web/Controllers/Helpers/Account/AccountActionsHelper.php:156
 msgid "Edit Account Password"
-msgstr "Edit Account Password"
+msgstr "Editovat heslo k účtu"
 
 #: app/modules/web/Controllers/AccountController.php:771
 #: app/modules/web/Controllers/AccountController.php:808
 msgid "Password copied"
-msgstr "Password copied"
+msgstr "Heslo bylo zkopírováno"
 
 #: app/modules/web/Controllers/AccountController.php:979
 #: app/modules/web/Controllers/AccountController.php:990
 #: app/modules/web/Controllers/AccountHistoryManagerController.php:165
 #: app/modules/web/Controllers/AccountHistoryManagerController.php:170
 msgid "Account restored"
-msgstr "Account restored"
+msgstr "Účet byl obnoven"
 
 #: app/modules/web/Controllers/AccountController.php:1019
 #: app/modules/web/Controllers/AccountController.php:1022
@@ -663,7 +663,7 @@ msgstr "Account restored"
 #: app/modules/web/Controllers/AccountManagerController.php:142
 #: app/modules/web/Controllers/AccountManagerController.php:145
 msgid "Accounts removed"
-msgstr "Accounts removed"
+msgstr "Účet byl smazán"
 
 #: app/modules/web/Controllers/AccountController.php:1063
 #: app/modules/web/Forms/NotificationForm.php:106
@@ -702,11 +702,11 @@ msgstr "Request done"
 
 #: app/modules/web/Controllers/AccountFavoriteController.php:57
 msgid "Favorite added"
-msgstr "Favorite added"
+msgstr "Oblíbená položka byla přidána"
 
 #: app/modules/web/Controllers/AccountFavoriteController.php:77
 msgid "Favorite deleted"
-msgstr "Favorite deleted"
+msgstr "Oblíbená položka byla odstraněna"
 
 #: app/modules/web/Controllers/AccountFileController.php:83
 #: app/modules/web/Controllers/AccountFileController.php:146
@@ -716,7 +716,7 @@ msgstr "File does not exist"
 #: app/modules/web/Controllers/AccountFileController.php:96
 #: app/modules/web/Controllers/AccountFileController.php:112
 msgid "File viewed"
-msgstr "File viewed"
+msgstr "Soubor byl zobrazen"
 
 #: app/modules/web/Controllers/AccountFileController.php:97
 #: app/modules/web/Controllers/AccountFileController.php:113
@@ -731,11 +731,11 @@ msgstr "File viewed"
 #: lib/SP/Services/Upgrade/UpgradeConfigService.php:133
 #: app/modules/web/themes/material-blue/views/config/import.inc:80
 msgid "File"
-msgstr "File"
+msgstr "Soubor"
 
 #: app/modules/web/Controllers/AccountFileController.php:126
 msgid "File not supported for preview"
-msgstr "File not supported for preview"
+msgstr "Náhled pro tento typ souboru není k dispozici"
 
 #: app/modules/web/Controllers/AccountFileController.php:151
 #: app/modules/web/Controllers/ConfigBackupController.php:164
@@ -744,7 +744,7 @@ msgstr "File not supported for preview"
 #: app/modules/web/Controllers/ConfigGeneralController.php:211
 #: app/modules/web/Controllers/ConfigGeneralController.php:252
 msgid "File downloaded"
-msgstr "File downloaded"
+msgstr "Soubor byl stažen"
 
 #: app/modules/web/Controllers/AccountFileController.php:197
 msgid "INVALID QUERY"
@@ -756,21 +756,21 @@ msgstr "There aren't any allowed MIME types"
 
 #: app/modules/web/Controllers/AccountFileController.php:218
 msgid "Invalid file"
-msgstr "Invalid file"
+msgstr "Neplatný soubor"
 
 #: app/modules/web/Controllers/AccountFileController.php:220
 #, php-format
 msgid "File: %s"
-msgstr "File: %s"
+msgstr "Soubor: %s"
 
 #: app/modules/web/Controllers/AccountFileController.php:232
 msgid "File size exceeded"
-msgstr "File size exceeded"
+msgstr "Soubor je příliš velký"
 
 #: app/modules/web/Controllers/AccountFileController.php:234
 #, php-format
 msgid "Maximum size: %d KB"
-msgstr "Maximum size: %d KB"
+msgstr "Maximální velikost: %d KB"
 
 #: app/modules/web/Controllers/AccountFileController.php:240
 #: lib/SP/Services/Import/FileImport.php:106
@@ -780,7 +780,7 @@ msgstr "Internal error while reading the file"
 #: app/modules/web/Controllers/AccountFileController.php:252
 #: app/modules/web/Controllers/AccountFileController.php:261
 msgid "File saved"
-msgstr "File saved"
+msgstr "Soubor byl uložen"
 
 #: app/modules/web/Controllers/AccountFileController.php:256
 #: app/modules/web/Controllers/Helpers/Grid/CustomFieldGrid.php:109
@@ -803,18 +803,18 @@ msgstr "Typ"
 #: app/modules/web/Controllers/AccountFileController.php:257
 #: app/modules/web/Controllers/Helpers/Grid/FileGrid.php:110
 msgid "Size"
-msgstr "Size"
+msgstr "Velikost"
 
 #: app/modules/web/Controllers/AccountFileController.php:295
 #: lib/SP/Services/Import/FileImport.php:95
 msgid "File type not allowed"
-msgstr "File type not allowed"
+msgstr "Typ souboru není povolen"
 
 #: app/modules/web/Controllers/AccountFileController.php:297
 #: lib/SP/Services/Import/FileImport.php:97
 #, php-format
 msgid "MIME type: %s"
-msgstr "MIME type: %s"
+msgstr "MIME typ: %s"
 
 #: app/modules/web/Controllers/AccountFileController.php:316
 #: app/modules/web/Controllers/AccountHistoryManagerController.php:71
@@ -907,20 +907,20 @@ msgstr "MIME type: %s"
 #: lib/SP/Core/Acl/UnauthorizedActionException.php:47
 #: lib/SP/Util/ErrorUtil.php:161
 msgid "You don't have permission to do this operation"
-msgstr "You don't have permission to do this operation"
+msgstr "Pro provedení této operace nemáte dostatečná oprávnění"
 
 #: app/modules/web/Controllers/AccountFileController.php:379
 #: app/modules/web/Controllers/AccountFileController.php:382
 msgid "Files deleted"
-msgstr "Files deleted"
+msgstr "Soubory byly odstraněny"
 
 #: app/modules/web/Controllers/AccountFileController.php:387
 msgid "File deleted"
-msgstr "File deleted"
+msgstr "Soubor byl smazán"
 
 #: app/modules/web/Controllers/AccountFileController.php:393
 msgid "File Deleted"
-msgstr "File Deleted"
+msgstr "Soubor byl smazán"
 
 #: app/modules/web/Controllers/AccountFileController.php:431
 msgid "Files management disabled"
@@ -934,13 +934,13 @@ msgstr "There are no linked files for the account"
 #: app/modules/web/Controllers/AccountManagerController.php:201
 #: lib/SP/Services/Account/AccountCryptService.php:198
 msgid "Accounts updated"
-msgstr "Accounts updated"
+msgstr "Účty aktualizovány"
 
 #: app/modules/web/Controllers/AccountManagerController.php:223
 #: app/modules/web/Controllers/Helpers/Grid/AccountGrid.php:198
 #: app/modules/web/Controllers/Helpers/Grid/AccountGrid.php:199
 msgid "Bulk Update"
-msgstr "Bulk Update"
+msgstr "Hromadná aktualizace"
 
 #: app/modules/web/Controllers/AuthTokenController.php:124
 #: app/modules/web/Controllers/Helpers/Grid/AuthTokenGrid.php:155
@@ -970,18 +970,18 @@ msgstr "Oprávnění bylo smazáno"
 #: app/modules/web/Controllers/AuthTokenController.php:376
 #: lib/SP/Services/Upgrade/UpgradeAuthToken.php:72
 msgid "Authorization"
-msgstr "Authorization"
+msgstr "Autorizace"
 
 #: app/modules/web/Controllers/AuthTokenController.php:285
 msgid "Authorization added"
-msgstr "Authorization added"
+msgstr "Autorizace byla přidána"
 
 #: app/modules/web/Controllers/AuthTokenController.php:323
 #: app/modules/web/Controllers/AuthTokenController.php:332
 #: app/modules/web/Controllers/AuthTokenController.php:339
 #: lib/SP/Services/Upgrade/UpgradeAuthToken.php:71
 msgid "Authorization updated"
-msgstr "Authorization updated"
+msgstr "Autorizace byla změněna"
 
 #: app/modules/web/Controllers/AuthTokenController.php:367
 msgid "View Authorization"
@@ -1007,7 +1007,7 @@ msgstr "Edit Category"
 #: app/modules/web/Controllers/CategoryController.php:229
 #: app/modules/web/Controllers/CategoryController.php:232
 msgid "Categories deleted"
-msgstr "Categories deleted"
+msgstr "Kategorie byly smazány"
 
 #: app/modules/web/Controllers/CategoryController.php:243
 #: app/modules/web/Controllers/CategoryController.php:281
@@ -1030,33 +1030,33 @@ msgstr "Kategorie"
 
 #: app/modules/web/Controllers/CategoryController.php:356
 msgid "View Category"
-msgstr "View Category"
+msgstr "Zobrazit kategorii"
 
 #: app/modules/web/Controllers/ClientController.php:121
 #: app/modules/web/Controllers/Helpers/Grid/ClientGrid.php:155
 #: app/modules/web/Controllers/Helpers/Grid/ClientGrid.php:156
 #: app/modules/web/themes/material-blue/views/account/account.inc:109
 msgid "New Client"
-msgstr "New Client"
+msgstr "Nový klient"
 
 #: app/modules/web/Controllers/ClientController.php:187
 #: app/modules/web/Controllers/Helpers/Grid/ClientGrid.php:173
 #: app/modules/web/Controllers/Helpers/Grid/ClientGrid.php:174
 msgid "Edit Client"
-msgstr "Edit Client"
+msgstr "Editovat klienta"
 
 #: app/modules/web/Controllers/ClientController.php:228
 #: app/modules/web/Controllers/ClientController.php:231
 msgid "Clients deleted"
-msgstr "Clients deleted"
+msgstr "Klienti byli smazáni"
 
 #: app/modules/web/Controllers/ClientController.php:347
 msgid "View Client"
-msgstr "View Client"
+msgstr "Zobrazit klienta"
 
 #: app/modules/web/Controllers/ConfigAccountController.php:74
 msgid "Maximum size per file is 16MB"
-msgstr "Maximum size per file is 16MB"
+msgstr "Maximální velikost souboru je 16MB"
 
 #: app/modules/web/Controllers/ConfigAccountController.php:82
 msgid "Files enabled"
@@ -1068,11 +1068,11 @@ msgstr "Files disabled"
 
 #: app/modules/web/Controllers/ConfigAccountController.php:100
 msgid "Public links enabled"
-msgstr "Public links enabled"
+msgstr "Povolit veřejné odkazy"
 
 #: app/modules/web/Controllers/ConfigAccountController.php:105
 msgid "Public links disabled"
-msgstr "Public links disabled"
+msgstr "Zakázat veřejné odkazy"
 
 #: app/modules/web/Controllers/ConfigBackupController.php:59
 #: app/modules/web/Controllers/ConfigBackupController.php:197
@@ -1095,11 +1095,11 @@ msgstr "Ey, this is a DEMO!!"
 #: app/modules/web/Forms/AccountForm.php:136
 #: app/modules/web/Forms/UserForm.php:161
 msgid "Passwords do not match"
-msgstr "Passwords do not match"
+msgstr "Hesla neodpovídají"
 
 #: app/modules/web/Controllers/ConfigBackupController.php:123
 msgid "Verification of exported data finished"
-msgstr "Verification of exported data finished"
+msgstr "Ověření exportovaných dat bylo dokončeno"
 
 #: app/modules/web/Controllers/ConfigBackupController.php:124
 #: lib/SP/Services/Upgrade/UpgradeConfigService.php:124
@@ -1110,24 +1110,24 @@ msgstr "Verification of exported data finished"
 #: app/modules/web/themes/material-blue/views/config/info.inc:61
 #: app/modules/web/themes/material-blue/views/plugin/plugin.inc:41
 msgid "Version"
-msgstr "Version"
+msgstr "Verze"
 
 #: app/modules/web/Controllers/ConfigBackupController.php:125
 #: app/modules/web/Controllers/Helpers/Grid/CustomFieldGrid.php:128
 #: app/modules/web/themes/material-blue/views/common/aux-customfields.inc:21
 #: app/modules/web/themes/material-blue/views/itemshow/custom_field.inc:106
 msgid "Encrypted"
-msgstr "Encrypted"
+msgstr "Zašifrováno"
 
 #: app/modules/web/Controllers/ConfigBackupController.php:125
 #: app/modules/web/themes/material-blue/views/config/info.inc:152
 msgid "Yes"
-msgstr "Yes"
+msgstr "Ano"
 
 #: app/modules/web/Controllers/ConfigBackupController.php:125
 #: app/modules/web/themes/material-blue/views/config/info.inc:152
 msgid "No"
-msgstr "No"
+msgstr "Ne"
 
 #: app/modules/web/Controllers/ConfigBackupController.php:126
 #: app/modules/web/Controllers/ConfigManagerController.php:203
@@ -1165,15 +1165,15 @@ msgstr "Štítky"
 
 #: app/modules/web/Controllers/ConfigDokuWikiController.php:66
 msgid "Missing DokuWiki parameters"
-msgstr "Missing DokuWiki parameters"
+msgstr "Chybí parametry DokuWiki"
 
 #: app/modules/web/Controllers/ConfigDokuWikiController.php:78
 msgid "DokuWiki enabled"
-msgstr "DokuWiki enabled"
+msgstr "DokuWiki povolena"
 
 #: app/modules/web/Controllers/ConfigDokuWikiController.php:83
 msgid "DokuWiki disabled"
-msgstr "DokuWiki disabled"
+msgstr "DokuWiki zakázána"
 
 #: app/modules/web/Controllers/ConfigEncryptionController.php:80
 #: app/modules/web/Controllers/ConfigEncryptionController.php:180
@@ -1183,7 +1183,7 @@ msgstr "DokuWiki disabled"
 #: lib/SP/Services/User/UpdatedMasterPassException.php:46
 #: lib/SP/Util/ErrorUtil.php:165
 msgid "Master password updated"
-msgstr "Master password updated"
+msgstr "Hlavní heslo bylo aktualizováno"
 
 #: app/modules/web/Controllers/ConfigEncryptionController.php:81
 #: app/modules/web/Controllers/ConfigEncryptionController.php:181
@@ -1195,7 +1195,7 @@ msgstr "Please, restart the session for update it"
 
 #: app/modules/web/Controllers/ConfigEncryptionController.php:88
 msgid "Master password not entered"
-msgstr "Master password not entered"
+msgstr "Hlavní heslo nebylo zadáno"
 
 #: app/modules/web/Controllers/ConfigEncryptionController.php:95
 msgid "The password update must be confirmed"
@@ -1203,20 +1203,20 @@ msgstr "The password update must be confirmed"
 
 #: app/modules/web/Controllers/ConfigEncryptionController.php:102
 msgid "Passwords are the same"
-msgstr "Passwords are the same"
+msgstr "Hesla jsou stejná"
 
 #: app/modules/web/Controllers/ConfigEncryptionController.php:109
 msgid "Master passwords do not match"
-msgstr "Master passwords do not match"
+msgstr "Hlavní hesla se neshodují"
 
 #: app/modules/web/Controllers/ConfigEncryptionController.php:116
 msgid "The current master password does not match"
-msgstr "The current master password does not match"
+msgstr "Aktuální hlavní heslo nesouhlasí"
 
 #: app/modules/web/Controllers/ConfigEncryptionController.php:123
 #: app/modules/web/themes/material-blue/views/config/encryption.inc:91
 msgid "Maintenance mode not enabled"
-msgstr "Maintenance mode not enabled"
+msgstr "Režim údržby není povolen"
 
 #: app/modules/web/Controllers/ConfigEncryptionController.php:124
 #: app/modules/web/themes/material-blue/views/config/encryption.inc:91
@@ -1240,14 +1240,14 @@ msgstr "Error while updating the master password hash"
 #: app/modules/web/Controllers/ConfigEncryptionController.php:249
 #: app/modules/web/Controllers/ConfigEncryptionController.php:255
 msgid "Temporary password generated"
-msgstr "Temporary password generated"
+msgstr "Dočasné heslo bylo vygenerováno"
 
 #: app/modules/web/Controllers/ConfigEncryptionController.php:240
 #: app/modules/web/Controllers/ConfigMailController.php:164
 #: app/modules/web/Controllers/ConfigMailController.php:170
 #: lib/SP/Services/Mail/MailService.php:150
 msgid "Email sent"
-msgstr "Email sent"
+msgstr "Email byl odeslán"
 
 #: app/modules/web/Controllers/ConfigEncryptionController.php:250
 #: lib/SP/Services/Mail/MailService.php:82
@@ -1273,7 +1273,7 @@ msgstr "Missing Proxy parameters "
 
 #: app/modules/web/Controllers/ConfigGeneralController.php:142
 msgid "Proxy enabled"
-msgstr "Proxy enabled"
+msgstr "Proxy povoleno"
 
 #: app/modules/web/Controllers/ConfigGeneralController.php:147
 msgid "Proxy disabled"
@@ -1289,12 +1289,12 @@ msgstr "Auth Basic disabled"
 
 #: app/modules/web/Controllers/ConfigImportController.php:80
 msgid "Accounts imported"
-msgstr "Accounts imported"
+msgstr "Účty byly importovány"
 
 #: app/modules/web/Controllers/ConfigImportController.php:86
 #: app/modules/web/Controllers/ConfigLdapController.php:279
 msgid "Import finished"
-msgstr "Import finished"
+msgstr "Import byl dokončen"
 
 #: app/modules/web/Controllers/ConfigImportController.php:87
 #: app/modules/web/Controllers/ConfigImportController.php:94
@@ -1315,42 +1315,42 @@ msgstr "Missing LDAP parameters"
 
 #: app/modules/web/Controllers/ConfigLdapController.php:95
 msgid "LDAP enabled"
-msgstr "LDAP enabled"
+msgstr "Povolit LDAP"
 
 #: app/modules/web/Controllers/ConfigLdapController.php:100
 msgid "LDAP disabled"
-msgstr "LDAP disabled"
+msgstr "Zakázat LDAP"
 
 #: app/modules/web/Controllers/ConfigLdapController.php:102
 #: app/modules/web/Controllers/ConfigMailController.php:114
 msgid "No changes"
-msgstr "No changes"
+msgstr "Žádné změny"
 
 #: app/modules/web/Controllers/ConfigLdapController.php:126
 #: app/modules/web/Controllers/ConfigLdapController.php:257
 msgid "Wrong LDAP parameters"
-msgstr "Wrong LDAP parameters"
+msgstr "LDAP parametery jsou nesprávné"
 
 #: app/modules/web/Controllers/ConfigLdapController.php:162
 #: app/modules/web/Controllers/ConfigLdapController.php:207
 msgid "Results"
-msgstr "Results"
+msgstr "Výsledky"
 
 #: app/modules/web/Controllers/ConfigLdapController.php:167
 #: app/modules/web/Controllers/ConfigLdapController.php:213
 #: lib/SP/Providers/Auth/Ldap/LdapConnection.php:99
 msgid "LDAP connection OK"
-msgstr "LDAP connection OK"
+msgstr "LDAP spojení je OK"
 
 #: app/modules/web/Controllers/ConfigLdapController.php:168
 #: app/modules/web/Controllers/ConfigLdapController.php:214
 #, php-format
 msgid "Objects found: %d"
-msgstr "Objects found: %d"
+msgstr "Nalezeno objektů: %d"
 
 #: app/modules/web/Controllers/ConfigLdapController.php:264
 msgid "LDAP Import"
-msgstr "LDAP Import"
+msgstr "Import z LDAP"
 
 #: app/modules/web/Controllers/ConfigLdapController.php:283
 msgid "There aren't any objects to synchronize"
@@ -1358,39 +1358,39 @@ msgstr "There aren't any objects to synchronize"
 
 #: app/modules/web/Controllers/ConfigLdapController.php:288
 msgid "LDAP users import finished"
-msgstr "LDAP users import finished"
+msgstr "Import uživatelů z LDAP byl dokončen"
 
 #: app/modules/web/Controllers/ConfigLdapController.php:290
 #, php-format
 msgid "Imported users: %d / %d"
-msgstr "Imported users: %d / %d"
+msgstr "Importovaní uživatelé: %d / %d"
 
 #: app/modules/web/Controllers/ConfigLdapController.php:291
 #, php-format
 msgid "Errors: %d"
-msgstr "Errors: %d"
+msgstr "Chyby: %d"
 
 #: app/modules/web/Controllers/ConfigMailController.php:77
 #: app/modules/web/Controllers/ConfigMailController.php:150
 msgid "Missing Mail parameters"
-msgstr "Missing Mail parameters"
+msgstr "Chybějí parametry emailu"
 
 #: app/modules/web/Controllers/ConfigMailController.php:105
 msgid "Mail enabled"
-msgstr "Mail enabled"
+msgstr "Povolit odesílání emailů"
 
 #: app/modules/web/Controllers/ConfigMailController.php:112
 msgid "Mail disabled"
-msgstr "Mail disabled"
+msgstr "Zakázat odesílání emailů"
 
 #: app/modules/web/Controllers/ConfigMailController.php:165
 #: lib/SP/Services/Mail/MailService.php:151
 msgid "Recipient"
-msgstr "Recipient"
+msgstr "Příjemce"
 
 #: app/modules/web/Controllers/ConfigMailController.php:171
 msgid "Please, check your inbox"
-msgstr "Please, check your inbox"
+msgstr "Zkontrolujte Vaši emailovou schránku"
 
 #: app/modules/web/Controllers/ConfigManagerController.php:173
 #: app/modules/web/themes/material-blue/views/install/index.inc:144
@@ -1455,37 +1455,37 @@ msgstr "Missing Wiki parameters"
 
 #: app/modules/web/Controllers/ConfigWikiController.php:74
 msgid "Wiki enabled"
-msgstr "Wiki enabled"
+msgstr "Wiki povolena"
 
 #: app/modules/web/Controllers/ConfigWikiController.php:79
 msgid "Wiki disabled"
-msgstr "Wiki disabled"
+msgstr "Wiki zakázána"
 
 #: app/modules/web/Controllers/CustomFieldController.php:121
 #: app/modules/web/Controllers/Helpers/Grid/CustomFieldGrid.php:159
 #: app/modules/web/Controllers/Helpers/Grid/CustomFieldGrid.php:160
 msgid "New Field"
-msgstr "New Field"
+msgstr "Nové pole"
 
 #: app/modules/web/Controllers/CustomFieldController.php:185
 #: app/modules/web/Controllers/Helpers/Grid/CustomFieldGrid.php:177
 #: app/modules/web/Controllers/Helpers/Grid/CustomFieldGrid.php:178
 msgid "Edit Field"
-msgstr "Edit Field"
+msgstr "Editovat pole"
 
 #: app/modules/web/Controllers/CustomFieldController.php:223
 #: app/modules/web/Controllers/CustomFieldController.php:226
 msgid "Fields deleted"
-msgstr "Fields deleted"
+msgstr "Pole byla smazána"
 
 #: app/modules/web/Controllers/CustomFieldController.php:232
 msgid "Field deleted"
-msgstr "Field deleted"
+msgstr "Pole bylo smazáno"
 
 #: app/modules/web/Controllers/CustomFieldController.php:264
 #: app/modules/web/Controllers/CustomFieldController.php:268
 msgid "Field added"
-msgstr "Field added"
+msgstr "Pole přidáno"
 
 #: app/modules/web/Controllers/CustomFieldController.php:265
 #: app/modules/web/Controllers/CustomFieldController.php:306
@@ -1493,7 +1493,7 @@ msgstr "Field added"
 #: lib/SP/Services/Upgrade/UpgradeCustomFieldDefinition.php:190
 #: lib/SP/Services/Upgrade/UpgradeCustomFieldDefinition.php:254
 msgid "Field"
-msgstr "Field"
+msgstr "Pole"
 
 #: app/modules/web/Controllers/CustomFieldController.php:305
 #: app/modules/web/Controllers/CustomFieldController.php:309
@@ -1502,15 +1502,15 @@ msgstr "Field"
 #: lib/SP/Services/Upgrade/UpgradeCustomFieldDefinition.php:189
 #: lib/SP/Services/Upgrade/UpgradeCustomFieldDefinition.php:253
 msgid "Field updated"
-msgstr "Field updated"
+msgstr "Pole bylo změněno"
 
 #: app/modules/web/Controllers/CustomFieldController.php:337
 msgid "View Field"
-msgstr "View Field"
+msgstr "Zobrazit pole"
 
 #: app/modules/web/Controllers/ErrorController.php:109
 msgid "Application on maintenance"
-msgstr "Application on maintenance"
+msgstr "Aplikace je v režimu údržby"
 
 #: app/modules/web/Controllers/ErrorController.php:110
 msgid "It will be running shortly"
@@ -1532,7 +1532,7 @@ msgstr "Error while checking the database"
 #: lib/SP/Util/ErrorUtil.php:170 lib/SP/Util/ErrorUtil.php:177
 #: app/modules/web/themes/material-blue/views/upgrade/index.inc:17
 msgid "Please contact to the administrator"
-msgstr "Please contact to the administrator"
+msgstr "Kontaktujte IT oddělení"
 
 #: app/modules/web/Controllers/ErrorController.php:141
 #: lib/SP/Services/Install/MySQL.php:99
@@ -1541,12 +1541,12 @@ msgstr "Please contact to the administrator"
 #: lib/SP/Storage/Database/MySQLHandler.php:166
 #: lib/SP/Storage/Database/MySQLHandler.php:178
 msgid "Unable to connect to DB"
-msgstr "Unable to connect to DB"
+msgstr "Nepodařilo se připojit k databázi"
 
 #: app/modules/web/Controllers/EventlogController.php:134
 #: app/modules/web/Controllers/EventlogController.php:137
 msgid "Event log cleared"
-msgstr "Event log cleared"
+msgstr "Protokol událostí byl vyčištěn"
 
 #: app/modules/web/Controllers/Helpers/Account/AccountActionsHelper.php:89
 #: app/modules/web/Controllers/Helpers/Account/AccountActionsHelper.php:90
@@ -1601,17 +1601,17 @@ msgstr "Uložit"
 #: app/modules/web/Controllers/Helpers/Account/AccountActionsHelper.php:354
 #: app/modules/web/Controllers/Helpers/Account/AccountActionsHelper.php:355
 msgid "Update Public Link"
-msgstr "Update Public Link"
+msgstr "Aktualizovat veřejný odkaz"
 
 #: app/modules/web/Controllers/Helpers/Account/AccountActionsHelper.php:377
 #: app/modules/web/Controllers/Helpers/Account/AccountActionsHelper.php:378
 msgid "Delete Public Link"
-msgstr "Delete Public Link"
+msgstr "Odstranit veřejný odkaz"
 
 #: app/modules/web/Controllers/Helpers/Account/AccountActionsHelper.php:397
 #: app/modules/web/Controllers/Helpers/Account/AccountActionsHelper.php:398
 msgid "Create Public Link"
-msgstr "Create Public Link"
+msgstr "Vytvořit veřejný odkaz"
 
 #: app/modules/web/Controllers/Helpers/Account/AccountActionsHelper.php:418
 #: app/modules/web/Controllers/Helpers/Account/AccountActionsHelper.php:419
@@ -1632,7 +1632,7 @@ msgstr "Zkopírovat heslo do schránky"
 #: app/modules/web/Controllers/Helpers/Account/AccountActionsHelper.php:508
 #: app/modules/web/Controllers/Helpers/Account/AccountActionsHelper.php:509
 msgid "Copy Account"
-msgstr "Copy Account"
+msgstr "Kopírovat účet"
 
 #: app/modules/web/Controllers/Helpers/Account/AccountPasswordHelper.php:75
 msgid "Account Password"
@@ -1852,11 +1852,11 @@ msgstr "View Authorization token"
 #: app/modules/web/Controllers/Helpers/Grid/AuthTokenGrid.php:207
 #: app/modules/web/Controllers/Helpers/Grid/AuthTokenGrid.php:208
 msgid "Delete Authorization"
-msgstr "Delete Authorization"
+msgstr "Odstranit autorizaci"
 
 #: app/modules/web/Controllers/Helpers/Grid/CategoryGrid.php:137
 msgid "Search for Category"
-msgstr "Search for Category"
+msgstr "Vyhledat kategorii"
 
 #: app/modules/web/Controllers/Helpers/Grid/CategoryGrid.php:187
 #: app/modules/web/Controllers/Helpers/Grid/CategoryGrid.php:188
@@ -1942,7 +1942,7 @@ msgstr "Přihlášení"
 
 #: app/modules/web/Controllers/Helpers/Grid/EventlogGrid.php:165
 msgid "Search for Events"
-msgstr "Search for Events"
+msgstr "Vyhledat událost"
 
 #: app/modules/web/Controllers/Helpers/Grid/EventlogGrid.php:181
 #: app/modules/web/Controllers/Helpers/Grid/EventlogGrid.php:182
@@ -2426,11 +2426,11 @@ msgstr "Instalace byla dokončena"
 
 #: app/modules/web/Controllers/ItemPresetController.php:85
 msgid "Display Value"
-msgstr "Display Value"
+msgstr "Zobrazit hodnotu"
 
 #: app/modules/web/Controllers/ItemPresetController.php:221
 msgid "New Value"
-msgstr "New Value"
+msgstr "Nová hodnota"
 
 #: app/modules/web/Controllers/ItemPresetController.php:295
 #: app/modules/web/Controllers/ItemPresetController.php:298
@@ -2929,11 +2929,11 @@ msgstr "Email"
 
 #: app/modules/web/themes/material-blue/inc/Icons.php:49
 msgid "Restore"
-msgstr "Restore"
+msgstr "Obnovení"
 
 #: app/modules/web/themes/material-blue/inc/Icons.php:51
 msgid "Help"
-msgstr "Help"
+msgstr "Nápověda"
 
 #: app/modules/web/themes/material-blue/inc/Icons.php:52
 msgid "Clear"
@@ -5064,11 +5064,11 @@ msgstr "Show Favorites"
 
 #: app/modules/web/themes/material-blue/views/account/search-searchbox.inc:101
 msgid "Favorites Filtering"
-msgstr "Oblíbené filtry"
+msgstr "Oblíbené"
 
 #: app/modules/web/themes/material-blue/views/account/search-searchbox.inc:120
 msgid "Accounts per page"
-msgstr "Počet účtů na stránce"
+msgstr "Množství účtů na stránce"
 
 #: app/modules/web/themes/material-blue/views/account/search-searchbox.inc:128
 msgid "More Filters"
@@ -5902,7 +5902,7 @@ msgstr "PHP"
 
 #: app/modules/web/themes/material-blue/views/config/info.inc:63
 msgid "Extensions"
-msgstr "Přípony"
+msgstr "Rozšíření"
 
 #: app/modules/web/themes/material-blue/views/config/info.inc:67
 msgid "Unavailable extensions"
@@ -5910,7 +5910,7 @@ msgstr "Unavailable extensions"
 
 #: app/modules/web/themes/material-blue/views/config/info.inc:71
 msgid "Used Memory"
-msgstr "Used Memory"
+msgstr "Využitá paměť"
 
 #: app/modules/web/themes/material-blue/views/config/info.inc:75
 msgid "Download rate"
@@ -5929,7 +5929,7 @@ msgstr "Zálohovat konfiguraci"
 #: app/modules/web/themes/material-blue/views/config/info.inc:192
 #, php-format
 msgid "Download %s"
-msgstr "Download %s"
+msgstr "Stáhnout %s"
 
 #: app/modules/web/themes/material-blue/views/config/info.inc:124
 msgid "Tells whether the language is available or not."
@@ -6074,7 +6074,7 @@ msgstr "Defines the attribute for the user's name when importing."
 
 #: app/modules/web/themes/material-blue/views/config/ldap.inc:423
 msgid "Import Groups"
-msgstr "Import Groups"
+msgstr "Importovat skupiny"
 
 #: app/modules/web/themes/material-blue/views/config/ldap.inc:432
 #: app/modules/web/themes/material-blue/views/config/ldap.inc:443
@@ -6088,7 +6088,7 @@ msgstr "Defines the attribute for the user group name when importing."
 #: app/modules/web/themes/material-blue/views/config/ldap.inc:455
 #: app/modules/web/themes/material-blue/views/config/ldap.inc:471
 msgid "Filter"
-msgstr "Filter"
+msgstr "Filtr"
 
 #: app/modules/web/themes/material-blue/views/config/ldap.inc:461
 msgid "Filter for importing LDAP users or groups."
@@ -6122,12 +6122,12 @@ msgstr "Enable Authentication"
 #: app/modules/web/themes/material-blue/views/config/mail.inc:152
 #: app/modules/web/themes/material-blue/views/config/mail.inc:155
 msgid "Security"
-msgstr "Security"
+msgstr "Zabezpečení"
 
 #: app/modules/web/themes/material-blue/views/config/mail.inc:169
 #: app/modules/web/themes/material-blue/views/config/mail.inc:178
 msgid "Sender email address"
-msgstr "Sender email address"
+msgstr "Emailová adresa odesílatele"
 
 #: app/modules/web/themes/material-blue/views/config/mail.inc:184
 #: app/modules/web/themes/material-blue/views/config/mail.inc:187
@@ -6198,7 +6198,7 @@ msgstr "Namespace used to search pages."
 
 #: app/modules/web/themes/material-blue/views/config/wiki.inc:41
 msgid "Enable Wiki links"
-msgstr "Enable Wiki links"
+msgstr "Povolit Wiki odkazy"
 
 #: app/modules/web/themes/material-blue/views/config/wiki.inc:42
 msgid ""
@@ -6255,7 +6255,7 @@ msgstr "Filter ON"
 #: app/modules/web/themes/material-blue/views/install/index.inc:17
 #, php-format
 msgid "Installation %s"
-msgstr "Installation %s"
+msgstr "Instalace %s"
 
 #: app/modules/web/themes/material-blue/views/install/index.inc:28
 msgid "sysPass Admin"
@@ -6355,7 +6355,7 @@ msgstr ""
 
 #: app/modules/web/themes/material-blue/views/itemshow/custom_field.inc:39
 msgid "Field name"
-msgstr "Field name"
+msgstr "Název pole"
 
 #: app/modules/web/themes/material-blue/views/itemshow/custom_field.inc:74
 msgid "Help Text"
@@ -6377,7 +6377,7 @@ msgstr "Délka"
 #: app/modules/web/themes/material-blue/views/itemshow/item_preset-password.inc:49
 #: app/modules/web/themes/material-blue/views/itemshow/item_preset-password.inc:58
 msgid "Score"
-msgstr "Score"
+msgstr "Skore"
 
 #: app/modules/web/themes/material-blue/views/itemshow/item_preset-password.inc:64
 #: app/modules/web/themes/material-blue/views/itemshow/item_preset-password.inc:71
@@ -6424,7 +6424,7 @@ msgstr ""
 #: app/modules/web/themes/material-blue/views/itemshow/item_preset-session_timeout.inc:21
 #: app/modules/web/themes/material-blue/views/itemshow/item_preset-session_timeout.inc:29
 msgid "IP Address"
-msgstr "IP Address"
+msgstr "IP Addresa"
 
 #: app/modules/web/themes/material-blue/views/itemshow/item_preset-session_timeout.inc:34
 #: app/modules/web/themes/material-blue/views/itemshow/item_preset-session_timeout.inc:42
@@ -6434,7 +6434,7 @@ msgstr "Timeout"
 #: app/modules/web/themes/material-blue/views/itemshow/item_preset.inc:84
 #: app/modules/web/themes/material-blue/views/itemshow/user.inc:153
 msgid "Select Profile"
-msgstr "Select Profile"
+msgstr "Vybrat profil"
 
 #: app/modules/web/themes/material-blue/views/itemshow/item_preset.inc:103
 msgid ""
@@ -6493,11 +6493,11 @@ msgstr "Emailová adresa"
 
 #: app/modules/web/themes/material-blue/views/itemshow/user.inc:223
 msgid "Application administrator"
-msgstr "Application administrator"
+msgstr "Administrátor aplikace"
 
 #: app/modules/web/themes/material-blue/views/itemshow/user.inc:242
 msgid "Accounts administrator"
-msgstr "Accounts administrator"
+msgstr "Administrátor účtů"
 
 #: app/modules/web/themes/material-blue/views/itemshow/user.inc:263
 msgid "Force password change"
@@ -6548,7 +6548,7 @@ msgstr "View account details"
 
 #: app/modules/web/themes/material-blue/views/itemshow/user_profile.inc:82
 msgid "View account password"
-msgstr "View account password"
+msgstr "Zobrazit heslo účtu"
 
 #: app/modules/web/themes/material-blue/views/itemshow/user_profile.inc:98
 msgid "View History"
@@ -6580,7 +6580,7 @@ msgstr "View account files"
 
 #: app/modules/web/themes/material-blue/views/itemshow/user_profile.inc:184
 msgid "Share Link"
-msgstr "Share Link"
+msgstr "Odkaz ke sdílení"
 
 #: app/modules/web/themes/material-blue/views/itemshow/user_profile.inc:185
 msgid "Share link to account"
@@ -6608,11 +6608,11 @@ msgstr "Groups management"
 
 #: app/modules/web/themes/material-blue/views/itemshow/user_profile.inc:311
 msgid "Profiles management"
-msgstr "Profiles management"
+msgstr "Správa profilů"
 
 #: app/modules/web/themes/material-blue/views/itemshow/user_profile.inc:328
 msgid "Categories management"
-msgstr "Categories management"
+msgstr "Správa kategorií"
 
 #: app/modules/web/themes/material-blue/views/itemshow/user_profile.inc:345
 msgid "Tags management"
@@ -6628,11 +6628,11 @@ msgstr "Custom fields management"
 
 #: app/modules/web/themes/material-blue/views/itemshow/user_profile.inc:396
 msgid "API authorizations management"
-msgstr "API authorizations management"
+msgstr "Správa API oprávnění"
 
 #: app/modules/web/themes/material-blue/views/itemshow/user_profile.inc:413
 msgid "Links management"
-msgstr "Links management"
+msgstr "Správa odkazů"
 
 #: app/modules/web/themes/material-blue/views/itemshow/user_profile.inc:430
 msgid "Accounts management"
@@ -6648,7 +6648,7 @@ msgstr "Default Values Management"
 
 #: app/modules/web/themes/material-blue/views/itemshow/user_profile.inc:485
 msgid "General Configuration"
-msgstr "General Configuration"
+msgstr "Obecná konfigurace"
 
 #: app/modules/web/themes/material-blue/views/itemshow/user_profile.inc:502
 msgid "Encryption options"
@@ -6664,11 +6664,11 @@ msgstr "Make accounts import"
 
 #: app/modules/web/themes/material-blue/views/itemshow/user_profile.inc:557
 msgid "View event log"
-msgstr "View event log"
+msgstr "Zobrazit protokol událostí"
 
 #: app/modules/web/themes/material-blue/views/itemshow/user_profile.inc:585
 msgid "Profile name"
-msgstr "Profile name"
+msgstr "Název profilu"
 
 #: app/modules/web/themes/material-blue/views/login/index.inc:51
 msgid "Previous Password"
@@ -6771,7 +6771,7 @@ msgstr "Please, wait while the process is running"
 #: app/modules/web/themes/material-blue/views/main/upgrade.inc:200
 #: app/modules/web/themes/material-blue/views/upgrade/index.inc:60
 msgid "Start Update"
-msgstr "Start Update"
+msgstr "Zahájit aktualizaci"
 
 #: app/modules/web/themes/material-blue/views/notification/notification.inc:115
 msgid "Global notification"
@@ -6791,11 +6791,11 @@ msgstr "Verze pluginu"
 
 #: app/modules/web/themes/material-blue/views/plugin/plugin.inc:53
 msgid "Compatible Version"
-msgstr "Compatible Version"
+msgstr "Kompatibilní verze"
 
 #: app/modules/web/themes/material-blue/views/plugin/plugin.inc:61
 msgid "sysPass compatible version"
-msgstr "sysPass compatible version"
+msgstr "Kompatibilní verze sysPass"
 
 #: app/modules/web/themes/material-blue/views/plugin/plugin.inc:66
 #: app/modules/web/themes/material-blue/views/wiki/wikipage.inc:43
@@ -6867,7 +6867,7 @@ msgstr "Enables the active In-App notifications polling"
 
 #: app/modules/web/themes/material-blue/views/usersettings/general.inc:212
 msgid "Show Filters"
-msgstr "Show Filters"
+msgstr "Zobrazit filtry"
 
 #: app/modules/web/themes/material-blue/views/usersettings/general.inc:214
 msgid "Displays the additional filters selection on the accounts search."
@@ -6875,7 +6875,7 @@ msgstr "Displays the additional filters selection on the accounts search."
 
 #: app/modules/web/themes/material-blue/views/wiki/wikipage.inc:20
 msgid "View Wiki"
-msgstr "View Wiki"
+msgstr "Zobrazit Wiki"
 
 #: app/modules/web/themes/material-blue/views/wiki/wikipage.inc:26
 #: app/modules/web/themes/material-blue/views/wiki/wikipage.inc:35
@@ -6927,6 +6927,9 @@ msgstr "Samozřejmě"
 
 msgid "Cancel"
 msgstr "Zrušit"
+
+msgid "Clear Selection"
+msgstr "Zrušit vybranou položku"
 
 #~ msgid "\"/config\" directory does not exist."
 #~ msgstr "\"/config\" directory does not exist."
@@ -6999,9 +7002,6 @@ msgstr "Zrušit"
 
 #~ msgid "Send notifies?"
 #~ msgstr "Send notifies?"
-
-#~ msgid "Clear Selection"
-#~ msgstr "Clear Selection"
 
 #~ msgid "Now"
 #~ msgstr "Now"
